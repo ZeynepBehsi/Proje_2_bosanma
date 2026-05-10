@@ -71,3 +71,4 @@ Proje_2_bosanma/
 ## Uyarı
 
 Bu sistem yalnızca genel bilgi amaçlıdır, hukuki danışmanlık yerine geçmez.
+# Proje_2_bosanma
