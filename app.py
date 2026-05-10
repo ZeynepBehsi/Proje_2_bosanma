@@ -70,6 +70,8 @@ else:
 # ── Sohbet geçmişi ────────────────────────────────────────────────────
 if "messages" not in st.session_state:
     st.session_state.messages = []
+if "selected_question" not in st.session_state:
+    st.session_state.selected_question = None
 
 st.title("⚖️ Boşanma Hukuku Bilgi Asistanı")
 st.caption("Türk Medeni Kanunu kapsamında genel hukuki bilgi sunar.")
@@ -78,8 +80,33 @@ for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
+# ── Örnek sorular ─────────────────────────────────────────────────────
+ORNEK_SORULAR = [
+    "Boşanma davası açmak için hangi koşullar gereklidir?",
+    "Anlaşmalı boşanma ile çekişmeli boşanma arasındaki fark nedir?",
+    "Boşanmada nafaka nasıl hesaplanır?",
+    "Çocukların velayeti boşanmada nasıl belirlenir?",
+    "Mal paylaşımı boşanmada nasıl yapılır?",
+    "Zina nedeniyle boşanma davası açılabilir mi?",
+    "Boşanma davası ne kadar sürer?",
+]
+
+if not st.session_state.messages:
+    st.markdown("**Örnek sorular:**")
+    cols = st.columns(2)
+    for i, soru in enumerate(ORNEK_SORULAR):
+        col = cols[i % 2]
+        if col.button(soru, key=f"ornek_{i}", use_container_width=True):
+            st.session_state.selected_question = soru
+            st.rerun()
+
 # ── Kullanıcı girişi ──────────────────────────────────────────────────
-if prompt := st.chat_input("Sorunuzu yazın..."):
+selected = None
+if st.session_state.selected_question:
+    selected = st.session_state.selected_question
+    st.session_state.selected_question = None
+
+if prompt := (selected or st.chat_input("Sorunuzu yazın...")):
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)

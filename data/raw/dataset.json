@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma davası nasıl açılır?",
+    "cevap": "Boşanma davası, aile mahkemesine yazılı dilekçe sunularak açılır. Dilekçede boşanma sebebi, nafaka, velayet ve tazminat talepleri belirtilir; harç ve gider avansı ödenir. Yetkili mahkeme eşlerden birinin yerleşim yeri veya son altı ay birlikte oturdukları yer mahkemesidir.",
+    "kaynak": "TMK Madde 166"
+  },
+  {
+    "id": 2,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanmak istiyorum ne yapmalıyım?",
+    "cevap": "Önce anlaşmalı mı yoksa çekişmeli mi boşanacağınıza karar verin. Anlaşmalı boşanmada (TMK 166/3) eşinizle nafaka, velayet ve mal paylaşımı protokolü hazırlayıp aile mahkemesine birlikte başvurabilirsiniz. Çekişmeli boşanmada ise bir avukat aracılığıyla dava açmanız önerilir.",
+    "kaynak": "TMK Madde 166"
+  },
+  {
+    "id": 3,
+    "kategori": "boşanma_süreci",
+    "soru": "Anlaşmalı boşanma için ne gerekir?",
+    "cevap": "TMK 166/3'e göre: evlilik en az 1 yıl sürmüş olmalı, taraflar birlikte başvurmalı ya da birinin davasını diğeri kabul etmeli, hâkim tarafları bizzat dinlemeli ve mali sonuçlar ile çocuklara ilişkin düzeni gösteren protokolü uygun bulmalıdır.",
+    "kaynak": "TMK Madde 166/3"
+  },
+  {
+    "id": 4,
+    "kategori": "boşanma_süreci",
+    "soru": "Çekişmeli boşanma ne kadar sürer?",
+    "cevap": "Çekişmeli boşanma davaları mahkemenin iş yüküne ve delil durumuna göre 1-3 yıl arasında sürebilir. Tarafların itiraz ve temyiz yollarına başvurması süreci uzatır.",
+    "kaynak": "TMK Madde 166"
+  },
+  {
+    "id": 5,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma davasını hangi mahkemede açarım?",
+    "cevap": "Boşanma davası, eşlerden birinin yerleşim yeri ya da davadan önce son altı ay birlikte oturdukları yer aile mahkemesinde açılır.",
+    "kaynak": "TMK Madde 168"
+  },
+  {
+    "id": 6,
+    "kategori": "boşanma_süreci",
+    "soru": "Avukatsız boşanma davası açılır mı?",
+    "cevap": "Hukuki bir zorunluluk yoktur; avukatsız dava açılabilir. Ancak özellikle çekişmeli davalarda hak kayıplarını önlemek için avukat desteği önerilir.",
+    "kaynak": "TMK Madde 184"
+  },
+  {
+    "id": 7,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma davası harçları ne kadar?",
+    "cevap": "Harç miktarı her yıl yargı harçları tarifesiyle belirlenir; başvuru ve karar harcı ayrı ayrı ödenir. Güncel tutarlar için aile mahkemesi yazı işleri müdürlüğü veya e-devlet harç hesaplama servisi kullanılabilir.",
+    "kaynak": "Harçlar Kanunu"
+  },
+  {
+    "id": 8,
+    "kategori": "boşanma_süreci",
+    "soru": "Zina nedeniyle boşanma mümkün mü?",
+    "cevap": "Evet. TMK 161'e göre eşlerden biri zina yaparsa diğeri boşanma davası açabilir. Ancak dava hakkı, zinanın öğrenilmesinden itibaren 6 ay ve her hâlükârda zina eyleminden itibaren 5 yıl geçmekle düşer.",
+    "kaynak": "TMK Madde 161"
+  },
+  {
+    "id": 9,
+    "kategori": "boşanma_süreci",
+    "soru": "Eşim bana fiziksel şiddet uyguladı, boşanabilir miyim?",
+    "cevap": "Evet. TMK 162 kapsamında hayata kast veya pek kötü ya da onur kırıcı davranış boşanma sebebidir. Bu hâlde şiddete maruz kalan eş, davayı öğrenmesinden itibaren 6 ay içinde boşanma davası açabilir.",
+    "kaynak": "TMK Madde 162"
+  },
+  {
+    "id": 10,
+    "kategori": "boşanma_süreci",
+    "soru": "Terk nedeniyle boşanma şartları nelerdir?",
+    "cevap": "TMK 164'e göre eşin haklı bir sebep olmaksızın evliliği terk etmesi ve en az 6 ay geri dönmemesi gerekir. Terk eden eşe noterden veya mahkeme aracılığıyla ihtar gönderilmeli, buna rağmen 2 ay içinde dönmezse dava açılabilir.",
+    "kaynak": "TMK Madde 164"
+  },
+  {
+    "id": 11,
+    "kategori": "boşanma_süreci",
+    "soru": "Akıl hastalığı boşanma sebebi olabilir mi?",
+    "cevap": "TMK 165'e göre eşlerden birinin akıl hastası olması ve bu hastalığın en az 3 yıldır sürmesi, diğer eşin dayanamayacağı derecede ortak hayatı çekilmez kılması hâlinde boşanma davası açılabilir.",
+    "kaynak": "TMK Madde 165"
+  },
+  {
+    "id": 12,
+    "kategori": "boşanma_süreci",
+    "soru": "Evlilik birliğinin sarsılması ne demek?",
+    "cevap": "TMK 166/1 kapsamındaki genel boşanma sebebidir. Ortak hayatı sürdürmeleri kendilerinden beklenemeyecek derecede evlilik birliğinin temelinden sarsılmış olması gerekir. Hâkim, olayları ve tarafların davranışlarını değerlendirerek karar verir.",
+    "kaynak": "TMK Madde 166/1"
+  },
+  {
+    "id": 13,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma davasında tanık gösterebilir miyim?",
+    "cevap": "Evet. Boşanma davalarında tanık delili kabul edilir. Tanıklar duruşmada ifade verir; tanık listesi dava dilekçesinde veya hâkimin belirlediği süre içinde sunulmalıdır.",
+    "kaynak": "TMK Madde 184"
+  },
+  {
+    "id": 14,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma protokolü nedir?",
+    "cevap": "Anlaşmalı boşanmada eşlerin velayet, nafaka, mal paylaşımı ve tazminat konularındaki karşılıklı kararlarını yazılı olarak düzenledikleri belgedir. Hâkim protokolü uygun bulursa onaylar ve protokol mahkeme kararının parçası olur.",
+    "kaynak": "TMK Madde 166/3"
+  },
+  {
+    "id": 15,
+    "kategori": "boşanma_süreci",
+    "soru": "Haysiyetsiz hayat sürme boşanma sebebi midir?",
+    "cevap": "Evet. TMK 163'e göre eşlerden birinin küçük düşürücü bir suç işlemesi veya haysiyetsiz bir hayat sürmesi ve bu durumun diğer eş ile birlikte yaşamayı ondan beklenemez hâle getirmesi boşanma sebebidir.",
+    "kaynak": "TMK Madde 163"
+  },
+  {
+    "id": 16,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma davası açtım, eşim karşı dava açabilir mi?",
+    "cevap": "Evet. Davalı eş, cevap dilekçesiyle birlikte karşı dava açabilir. Her iki davanın birlikte görülmesi hem usul hem de esastan daha verimlidir.",
+    "kaynak": "TMK Madde 184"
+  },
+  {
+    "id": 17,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma kararı ne zaman kesinleşir?",
+    "cevap": "Tarafların karara itiraz etmediği durumda karar tebliğden itibaren 2 hafta, Bölge Adliye Mahkemesi kararlarında ise 1 ay içinde istinaf veya temyize başvurulmazsa kesinleşir.",
+    "kaynak": "HMK Madde 302"
+  },
+  {
+    "id": 18,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanmadan sonra soyadımı değiştirebilir miyim?",
+    "cevap": "Kadın, boşanma kararının kesinleşmesinden sonra kural olarak evlenmeden önceki soyadına döner. Ancak mahkemeden izin alarak evlilik soyadını kullanmaya devam edebilir.",
+    "kaynak": "TMK Madde 173"
+  },
+  {
+    "id": 19,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma davası sürecinde nafaka alabilir miyim?",
+    "cevap": "Evet. Dava süresince tedbir nafakası talep edilebilir. Hâkim, dava devam ederken eşlerden birinin geçimini sağlamak amacıyla geçici tedbir nafakasına hükmedebilir.",
+    "kaynak": "TMK Madde 169"
+  },
+  {
+    "id": 20,
+    "kategori": "boşanma_süreci",
+    "soru": "Anlaşmalı boşanmada hâkim protokolü değiştirebilir mi?",
+    "cevap": "Evet. Hâkim, çocukların ve tarafların menfaatlerini korumak amacıyla protokolde değişiklik önerebilir. Taraflar değişikliği kabul etmezse anlaşmalı boşanma, çekişmeli boşanmaya dönüşebilir.",
+    "kaynak": "TMK Madde 166/3"
+  },
+  {
+    "id": 21,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanmada yargılama usulü nasıl işler?",
+    "cevap": "TMK 184'e göre boşanma davalarında hâkim, tarafların iddialarıyla bağlı kalmaksızın resen araştırma yapabilir. Tarafların ikrarı dahi hâkimi bağlamaz; hâkim vicdani kanaatiyle karar verir.",
+    "kaynak": "TMK Madde 184"
+  },
+  {
+    "id": 22,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma kararı kesinleşmeden yeniden evlenebilir miyim?",
+    "cevap": "Hayır. Yeniden evlenebilmek için boşanma kararının kesinleşmiş olması ve nüfus müdürlüğüne tescil edilmesi gerekir.",
+    "kaynak": "TMK Madde 132"
+  },
+  {
+    "id": 23,
+    "kategori": "boşanma_süreci",
+    "soru": "Eşim yurt dışında yaşıyor, boşanma davası açabilir miyim?",
+    "cevap": "Evet. Davacının yerleşim yeri Türkiye'de ise Türk aile mahkemesinde dava açılabilir. Eşinize tebligat uluslararası tebligat hükümleri çerçevesinde yapılır.",
+    "kaynak": "TMK Madde 168, MK 9"
+  },
+  {
+    "id": 24,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma davasından vazgeçebilir miyim?",
+    "cevap": "Evet, dava kesinleşmeden önce davadan feragat edilebilir. Feragat halinde dava düşer; ancak yargılama giderleri feragat eden tarafa yüklenir.",
+    "kaynak": "HMK Madde 307"
+  },
+  {
+    "id": 25,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma davası gizli mi görülür?",
+    "cevap": "Boşanma davaları aile mahkemelerinde görülür ve tarafların talebi ya da hâkimin kararıyla gizli yargılama yapılabilir.",
+    "kaynak": "HMK Madde 29"
+  },
+  {
+    "id": 26,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma dilekçesine ne yazılmalı?",
+    "cevap": "Dilekçede tarafların kimlik bilgileri, evlilik tarihi ve cüzdanı, boşanma sebebi, varsa çocukların bilgileri, nafaka-velayet-tazminat talepleri ile deliller (tanık listesi, belgeler) yer almalıdır.",
+    "kaynak": "HMK Madde 119"
+  },
+  {
+    "id": 27,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanmada bilirkişi ne zaman atanır?",
+    "cevap": "Mal paylaşımı, işletme değerlemesi veya psikolojik değerlendirme gibi uzmanlık gerektiren konularda hâkim bilirkişi atayabilir.",
+    "kaynak": "HMK Madde 266"
+  },
+  {
+    "id": 28,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma kararı temyize taşınabilir mi?",
+    "cevap": "Evet. Bölge Adliye Mahkemesi'nin boşanma kararları Yargıtay'a temyiz yoluyla taşınabilir. Temyiz süresi kararın tebliğinden itibaren 2 haftadır.",
+    "kaynak": "HMK Madde 361"
+  },
+  {
+    "id": 29,
+    "kategori": "boşanma_süreci",
+    "soru": "Eşim mahkemeye gelmezse ne olur?",
+    "cevap": "Davalı taraf geçerli bir özür bildirmeksizin duruşmaya gelmezse, dosya üzerinden veya gelen tarafın beyanına göre karar verilebilir.",
+    "kaynak": "HMK Madde 150"
+  },
+  {
+    "id": 30,
+    "kategori": "boşanma_süreci",
+    "soru": "İhtiyati tedbir boşanma davasında ne işe yarar?",
+    "cevap": "Dava süresince aile konutunun korunması, eşin işletmeye müdahalesinin önlenmesi veya çocukların yurt dışına çıkarılmaması gibi acil koruma tedbirleri için ihtiyati tedbir kararı alınabilir.",
+    "kaynak": "HMK Madde 389"
+  },
+  {
+    "id": 31,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma sonrası nüfus kaydı nasıl düzenlenir?",
+    "cevap": "Boşanma kararının kesinleşmesinin ardından mahkeme kesinleşme şerhini nüfus müdürlüğüne bildirir; kayıtlar resen güncellenir.",
+    "kaynak": "Nüfus Hizmetleri Kanunu"
+  },
+  {
+    "id": 32,
+    "kategori": "boşanma_süreci",
+    "soru": "Eşim suç işledi, boşanma sebebi olur mu?",
+    "cevap": "TMK 163'e göre küçük düşürücü bir suç işlemek boşanma sebebi sayılır. Ayrıca ağır ceza mahkûmiyeti evlilik birliğini sarstığı gerekçesiyle TMK 166 kapsamında da değerlendirilebilir.",
+    "kaynak": "TMK Madde 163"
+  },
+  {
+    "id": 33,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanmada uzlaştırma zorunlu mu?",
+    "cevap": "Boşanma davaları arabuluculuk kapsamı dışındadır; dolayısıyla zorunlu uzlaştırma uygulanmaz. Ancak taraflar anlaşmalı boşanma yolunu her zaman seçebilir.",
+    "kaynak": "TMK Madde 166"
+  },
+  {
+    "id": 34,
+    "kategori": "boşanma_süreci",
+    "soru": "Çekişmeli boşanmada ilk duruşmada ne olur?",
+    "cevap": "İlk duruşmada hâkim tarafları dinler, dava konusunu ve talepleri netleştirir, delilleri tespit eder ve sonraki duruşma tarihini belirler.",
+    "kaynak": "HMK Madde 137"
+  },
+  {
+    "id": 35,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma davasını kim açabilir?",
+    "cevap": "Yalnızca eşlerden biri boşanma davası açabilir; üçüncü kişiler dava açamaz.",
+    "kaynak": "TMK Madde 166"
+  },
+  {
+    "id": 36,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma davası kaç duruşmada sonuçlanır?",
+    "cevap": "Anlaşmalı boşanma genellikle tek duruşmada sonuçlanır. Çekişmeli davalarda ise delil toplandıkça duruşma sayısı artabilir; ortalama 3-10 duruşma görülmektedir.",
+    "kaynak": "TMK Madde 184"
+  },
+  {
+    "id": 37,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma kararından sonra ne yapmalıyım?",
+    "cevap": "Kararın kesinleşmesinin ardından: nüfus cüzdanı güncelleme, mal devir işlemleri, pasaport ve tapu güncelleme, varsa çocukların okul kayıtları ile nafaka ve velayet kararlarının takibine başlanmalıdır.",
+    "kaynak": "TMK Madde 166"
+  },
+  {
+    "id": 38,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanmak için kaç yıl ayrı yaşamam gerekir?",
+    "cevap": "Türk hukukunda zorunlu ayrı yaşama süresi yoktur; ancak fiili ayrılık evlilik birliğinin sarsıldığının delili olarak kullanılabilir.",
+    "kaynak": "TMK Madde 166"
+  },
+  {
+    "id": 39,
+    "kategori": "boşanma_süreci",
+    "soru": "Eşim boşanmak istemiyor, ne yapabilirim?",
+    "cevap": "Çekişmeli boşanma davası açabilirsiniz. TMK 166/1 uyarınca evlilik birliğinin temelinden sarsıldığını ispat ederseniz eşinizin rızası aranmaz.",
+    "kaynak": "TMK Madde 166/1"
+  },
+  {
+    "id": 40,
+    "kategori": "nafaka",
+    "soru": "Yoksulluk nafakası nedir?",
+    "cevap": "TMK 175'e göre boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak şartıyla diğer taraftan süresiz nafaka isteyebilir. Nafaka, alacaklının yeniden evlenmesi, taraflardan birinin ölümü veya yoksulluğun ortadan kalkmasıyla sona erer.",
+    "kaynak": "TMK Madde 175"
+  },
+  {
+    "id": 41,
+    "kategori": "nafaka",
+    "soru": "İştirak nafakası nedir?",
+    "cevap": "İştirak nafakası, velayeti almayan ebeveynin çocuğun bakım ve eğitim giderlerine katılmak amacıyla ödediği nafakadır. Çocuğun yararı ve velayeti olmayan ebeveynin ekonomik durumu esas alınır.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 42,
+    "kategori": "nafaka",
+    "soru": "Nafaka ne zaman kesilir?",
+    "cevap": "TMK 177'ye göre yoksulluk nafakası: alacaklının yeniden evlenmesinde veya evlenmeksizin fiilen evliymiş gibi yaşamasında, taraflardan birinin ölümünde ya da alacaklının yoksulluğunun ortadan kalkması hâlinde sona erer.",
+    "kaynak": "TMK Madde 177"
+  },
+  {
+    "id": 43,
+    "kategori": "nafaka",
+    "soru": "Nafaka miktarı nasıl belirlenir?",
+    "cevap": "Hâkim, tarafların ekonomik durumlarını, çocuğun ihtiyaçlarını, yaşam standartlarını ve hayat pahalılığını göz önünde bulundurarak nafaka miktarını belirler.",
+    "kaynak": "TMK Madde 175, 182"
+  },
+  {
+    "id": 44,
+    "kategori": "nafaka",
+    "soru": "Eşim çalışmıyorsa nafaka alabilir miyim?",
+    "cevap": "Çalışmıyor olmanız tek başına yeterli değildir; boşanma yüzünden yoksulluğa düşeceğinizi ve kusurunuzun daha ağır olmadığını ispat etmeniz gerekir. Bu şartlar sağlandığında yoksulluk nafakasına hak kazanılır.",
+    "kaynak": "TMK Madde 175"
+  },
+  {
+    "id": 45,
+    "kategori": "nafaka",
+    "soru": "Nafaka ödenmezse ne olur?",
+    "cevap": "Nafaka kararı icra yoluyla takip edilebilir. Borçlu eş, mal varlığına haciz, maaşına kesinti ve Nafaka Alacaklarının Ödenmesine İlişkin Kanun kapsamında işlem yapılabilir.",
+    "kaynak": "İcra ve İflas Kanunu"
+  },
+  {
+    "id": 46,
+    "kategori": "nafaka",
+    "soru": "Nafaka ne zaman başlar?",
+    "cevap": "Tedbir nafakası dava tarihinden, hükmedilen nafaka ise boşanma kararının kesinleşmesinden itibaren işlemeye başlar.",
+    "kaynak": "TMK Madde 169, 175"
+  },
+  {
+    "id": 47,
+    "kategori": "nafaka",
+    "soru": "Çocuk 18 yaşına gelince iştirak nafakası kesilir mi?",
+    "cevap": "Kural olarak evet; çocuk ergin (18 yaş) olunca iştirak nafakası sona erer. Ancak çocuk öğrenimini sürdürüyorsa ya da engelli ise mahkeme nafakanın devamına hükmedebilir.",
+    "kaynak": "TMK Madde 182, 328"
+  },
+  {
+    "id": 48,
+    "kategori": "nafaka",
+    "soru": "Nafaka artırma davası nasıl açılır?",
+    "cevap": "Hayat pahalılığı veya tarafların ekonomik koşullarında değişiklik olması hâlinde nafaka alacaklısı veya borçlusu artırma ya da azaltma davası açabilir.",
+    "kaynak": "TMK Madde 176/4"
+  },
+  {
+    "id": 49,
+    "kategori": "nafaka",
+    "soru": "Eşim yeniden evlenirse nafaka kesilir mi?",
+    "cevap": "Evet. TMK 177 uyarınca alacaklının yeniden evlenmesi nafakayı kendiliğinden sona erdirir.",
+    "kaynak": "TMK Madde 177"
+  },
+  {
+    "id": 50,
+    "kategori": "nafaka",
+    "soru": "Nafaka toptan ödenebilir mi?",
+    "cevap": "TMK 176/1'e göre nafaka, tarafların anlaşması veya hâkimin uygun görmesi hâlinde toptan (sermaye olarak) ödenebilir.",
+    "kaynak": "TMK Madde 176"
+  },
+  {
+    "id": 51,
+    "kategori": "nafaka",
+    "soru": "Maaşıma nafaka haczi konulabilir mi?",
+    "cevap": "Evet. Nafaka alacağının takibinde borçlunun maaşına 1/4 oranında haciz konulabilir. Nafaka alacakları diğer hacizlere göre önceliklidir.",
+    "kaynak": "İİK Madde 83"
+  },
+  {
+    "id": 52,
+    "kategori": "nafaka",
+    "soru": "Geçici nafaka nedir?",
+    "cevap": "Dava süresince taraflardan birinin geçimini sağlamak amacıyla hâkimin hükmettiği tedbir nafakasıdır. Dava sonuçlanınca yerine boşanma nafakası geçer.",
+    "kaynak": "TMK Madde 169"
+  },
+  {
+    "id": 53,
+    "kategori": "nafaka",
+    "soru": "Nafakada zamanaşımı var mı?",
+    "cevap": "Her ay doğan nafaka alacağı için 10 yıllık genel zamanaşımı süresi uygulanır; ancak kesinleşmiş icra takibinde farklı süreler geçerlidir.",
+    "kaynak": "BK Madde 146"
+  },
+  {
+    "id": 54,
+    "kategori": "nafaka",
+    "soru": "İştirak nafakası ile yoksulluk nafakası farkı nedir?",
+    "cevap": "İştirak nafakası çocuk için velayeti olmayan ebeveyne yüklenir; yoksulluk nafakası ise boşanma nedeniyle yoksullaşan eşe diğer eş tarafından ödenir.",
+    "kaynak": "TMK Madde 175, 182"
+  },
+  {
+    "id": 55,
+    "kategori": "nafaka",
+    "soru": "Nafaka kararını anlaşmayla belirleyebilir miyiz?",
+    "cevap": "Evet. Anlaşmalı boşanma protokolünde nafaka miktarı serbestçe kararlaştırılabilir; hâkim bu miktarı uygun bulursa onaylar.",
+    "kaynak": "TMK Madde 166/3"
+  },
+  {
+    "id": 56,
+    "kategori": "nafaka",
+    "soru": "Ortak kusur varsa nafaka alınabilir mi?",
+    "cevap": "Alacaklının kusuru borçlunun kusurundan daha ağır olmamalıdır. Her iki taraf da kusurlu olsa bile, eşit ya da daha az kusurlu taraf yoksulluk nafakasına hak kazanabilir.",
+    "kaynak": "TMK Madde 175"
+  },
+  {
+    "id": 57,
+    "kategori": "nafaka",
+    "soru": "Nafaka ne şekilde ödenir?",
+    "cevap": "Kural olarak aylık düzenli ödemelerle ödenir; ancak toptan ödeme veya aynî ödeme de mümkündür.",
+    "kaynak": "TMK Madde 176"
+  },
+  {
+    "id": 58,
+    "kategori": "nafaka",
+    "soru": "Çalışmaya başlarsam nafakam kesilir mi?",
+    "cevap": "Çalışmaya başlamak yoksulluğun ortadan kalkması anlamına gelebilir. Nafaka borçlusu bu değişikliği mahkemeye bildirerek nafakanın azaltılmasını veya kaldırılmasını talep edebilir.",
+    "kaynak": "TMK Madde 176/4"
+  },
+  {
+    "id": 59,
+    "kategori": "nafaka",
+    "soru": "Nafaka için dava açmak zorunlu mu?",
+    "cevap": "Anlaşmalı boşanmada protokole yazılarak hâkime onaylattırılabilir. Ayrı dava açmak zorunlu değildir; ancak anlaşmazlık varsa nafaka davası açılması gerekir.",
+    "kaynak": "TMK Madde 175"
+  },
+  {
+    "id": 60,
+    "kategori": "nafaka",
+    "soru": "Engelli çocuk için nafaka sona erer mi?",
+    "cevap": "Hayır. Bakıma muhtaç engelli çocuklar için iştirak nafakası erginlik sonrasında da devam edebilir.",
+    "kaynak": "TMK Madde 328/2"
+  },
+  {
+    "id": 61,
+    "kategori": "nafaka",
+    "soru": "Emekli maaşından nafaka kesilebilir mi?",
+    "cevap": "Evet. Emekli maaşı da hacze konu olabilir; nafaka alacaklarında maaşın dörtte birinden fazla kesinti yapılabilir.",
+    "kaynak": "SGK Kanunu, İİK Madde 83"
+  },
+  {
+    "id": 62,
+    "kategori": "nafaka",
+    "soru": "Nafaka protokolde belirsiz bırakılabilir mi?",
+    "cevap": "Hayır. Anlaşmalı boşanmada nafaka miktarı ve süresi protokolde açıkça belirtilmelidir; belirsiz hükümler hâkimce kabul edilmez.",
+    "kaynak": "TMK Madde 166/3"
+  },
+  {
+    "id": 63,
+    "kategori": "nafaka",
+    "soru": "Yurt dışındaki eşten nafaka alabilir miyim?",
+    "cevap": "Evet. Yurt dışındaki borçlu için Türkiye'de icra takibi başlatılabilir veya uluslararası nafaka sözleşmeleri çerçevesinde ilgili ülkede icra yoluna gidilebilir.",
+    "kaynak": "New York Sözleşmesi 1956"
+  },
+  {
+    "id": 64,
+    "kategori": "nafaka",
+    "soru": "Nafaka dava süresince durdurulabilir mi?",
+    "cevap": "İstinaf veya temyiz aşamasında nafaka hükmü genellikle icra edilmeye devam eder; durdurmak için ihtiyati tedbir kararı gerekmektedir.",
+    "kaynak": "HMK Madde 394"
+  },
+  {
+    "id": 65,
+    "kategori": "nafaka",
+    "soru": "Nafakayı eşim ödemezse şikâyet edebilir miyim?",
+    "cevap": "Evet. İcra takibi başlatabilir ve İİK 344 uyarınca nafaka borcunu ödemeyen kişi hakkında tazyik hapsi uygulanmasını talep edebilirsiniz.",
+    "kaynak": "İİK Madde 344"
+  },
+  {
+    "id": 66,
+    "kategori": "nafaka",
+    "soru": "İştirak nafakası ne zaman artırılır?",
+    "cevap": "Çocuğun büyümesiyle birlikte artan ihtiyaçları, enflasyon ve tarafların gelir değişiklikleri nafaka artırım davası açmak için gerekçe oluşturur.",
+    "kaynak": "TMK Madde 176/4"
+  },
+  {
+    "id": 67,
+    "kategori": "nafaka",
+    "soru": "Nafaka alacağı mirasçılara geçer mi?",
+    "cevap": "Vadesi gelmiş birikmiş nafaka alacakları mirasçılara geçer; ancak ilerideki nafaka borcu kişisel nitelikte olduğundan mirasçılara geçmez.",
+    "kaynak": "TMK Madde 177"
+  },
+  {
+    "id": 68,
+    "kategori": "nafaka",
+    "soru": "Nafaka ile çocuk yardımı aynı şey midir?",
+    "cevap": "Hayır. İştirak nafakası mahkeme kararıyla belirlenir ve velayeti olmayan ebeveyn tarafından ödenir. Devlet çocuk yardımları ise sosyal güvenlik kapsamında ayrı bir konudur.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 69,
+    "kategori": "nafaka",
+    "soru": "Anlaşmalı boşanmada nafakadan vazgeçilebilir mi?",
+    "cevap": "Evet. Taraflar protokolde nafakadan feragat edebilir. Ancak çocuk için iştirak nafakasından tamamen vazgeçilemez; çocuğun yararına aykırı şartlar hâkimce kabul edilmez.",
+    "kaynak": "TMK Madde 166/3"
+  },
+  {
+    "id": 70,
+    "kategori": "nafaka",
+    "soru": "Tedbir nafakası kararı nasıl icra edilir?",
+    "cevap": "Tedbir nafakası ilamına dayanarak icra müdürlüğünde ilamlı icra takibi başlatılır; borçlunun mal varlığı ve maaşına haciz uygulanabilir.",
+    "kaynak": "İİK Madde 32"
+  },
+  {
+    "id": 71,
+    "kategori": "nafaka",
+    "soru": "Nafaka miktarı net mi brüt mü hesaplanır?",
+    "cevap": "Mahkemeler genellikle aylık net tutar belirler; ancak karar metninde belirtilmemişse icra aşamasında bu husus tartışılabilir.",
+    "kaynak": "TMK Madde 175"
+  },
+  {
+    "id": 72,
+    "kategori": "nafaka",
+    "soru": "Öğrenci çocuk için nafaka devam eder mi?",
+    "cevap": "Evet. Yükseköğrenim gören çocuk için mahkeme, eğitim süresince nafakanın devamına hükmedebilir.",
+    "kaynak": "TMK Madde 328/2"
+  },
+  {
+    "id": 73,
+    "kategori": "nafaka",
+    "soru": "Nafaka otomatik artış hükmü konulabilir mi?",
+    "cevap": "Protokolde TÜFE veya asgari ücret artışına endeksli otomatik artış hükmü konulabilir; hâkim uygun bulursa onaylar.",
+    "kaynak": "TMK Madde 176"
+  },
+  {
+    "id": 74,
+    "kategori": "nafaka",
+    "soru": "İşsiz olduğumu ispat etsem nafaka düşer mi?",
+    "cevap": "Mahkeme borçlunun fiilen işsiz olduğunu kabul etse de çalışma gücünü tamamen yitirmemiş ise gelir elde edebileceğini varsayarak nafakayı tamamen kaldırmayabilir.",
+    "kaynak": "TMK Madde 176/4"
+  },
+  {
+    "id": 75,
+    "kategori": "nafaka",
+    "soru": "Nafaka kararına itiraz edebilir miyim?",
+    "cevap": "Evet. İlk derece mahkemesinin nafaka kararına karşı Bölge Adliye Mahkemesi'ne istinaf, oradan da Yargıtay'a temyiz yoluna başvurulabilir.",
+    "kaynak": "HMK Madde 341"
+  },
+  {
+    "id": 76,
+    "kategori": "nafaka",
+    "soru": "Kaç çocuğum varsa o kadar nafaka mı alırım?",
+    "cevap": "Her çocuk için ayrı ayrı iştirak nafakasına hükmedilir; dolayısıyla çocuk sayısı arttıkça toplam nafaka miktarı da artar.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 77,
+    "kategori": "nafaka",
+    "soru": "Nafaka ne zaman icra edilebilir hale gelir?",
+    "cevap": "Nafakaya ilişkin karar kesinleşmeden icraya konulabilir; çünkü nafaka ilamları kesinleşmeden icraya konulabilen kararlardandır.",
+    "kaynak": "İİK Madde 36"
+  },
+  {
+    "id": 78,
+    "kategori": "nafaka",
+    "soru": "Protokolde nafaka yazmayı unuttuk ne olur?",
+    "cevap": "Anlaşmalı boşanma protokolünde nafakadan söz edilmemesi, nafakanın reddedildiği anlamına gelebilir. Bu durumda boşanma sonrası ayrı bir nafaka davası açılabilir.",
+    "kaynak": "TMK Madde 175"
+  },
+  {
+    "id": 79,
+    "kategori": "velayet",
+    "soru": "Velayet kime verilir?",
+    "cevap": "TMK 182'ye göre hâkim, çocuğun yararını esas alarak velayeti eşlerden birine verir. Çocuğun yaşı, sağlık durumu, ebeveynlerin ekonomik ve sosyal durumu, çocukla kurduğu duygusal bağ ve birlikte geçirdikleri zaman değerlendirilir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 80,
+    "kategori": "velayet",
+    "soru": "Çocuk boşanınca kime kalır?",
+    "cevap": "Hâkim, çocuğun üstün yararı ilkesiyle velayeti belirler. Küçük yaştaki çocuklar için genellikle anne tercih edilse de bu kural değil eğilimdir; baba da velayeti alabilir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 81,
+    "kategori": "velayet",
+    "soru": "Velayet nasıl değiştirilir?",
+    "cevap": "TMK 183'e göre koşulların değişmesi durumunda hâkim, çocuğun yararına uygun olarak velayeti değiştirebilir. Değişiklik için aile mahkemesinde dava açmak gerekir.",
+    "kaynak": "TMK Madde 183"
+  },
+  {
+    "id": 82,
+    "kategori": "velayet",
+    "soru": "Ortak velayet mümkün mü Türkiye'de?",
+    "cevap": "Türk hukukunda ana kural tek taraflı velayet olmakla birlikte, Yargıtay son içtihatlarında ve öğretide ortak velayete kapı aralanmaktadır. Taraflar anlaşmalı boşanmada ortak velayet düzenleyebilir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 83,
+    "kategori": "velayet",
+    "soru": "Velayeti olmayan ebeveyn çocukla görüşebilir mi?",
+    "cevap": "Evet. TMK 323'e göre ana ve babadan her biri, velayeti elinde bulundurmasa dahi çocuğuyla kişisel ilişki kurma hakkına sahiptir.",
+    "kaynak": "TMK Madde 323"
+  },
+  {
+    "id": 84,
+    "kategori": "velayet",
+    "soru": "Kişisel ilişki kurma hakkı nasıl düzenlenir?",
+    "cevap": "Taraflar anlaşamazsa hâkim, çocuğun yararını ve ebeveynin koşullarını göz önünde bulundurarak hafta sonu, tatil ve bayram gibi belirli süreleri kapsayan kişisel ilişki takvimi belirler.",
+    "kaynak": "TMK Madde 323"
+  },
+  {
+    "id": 85,
+    "kategori": "velayet",
+    "soru": "Velayet kaldırılabilir mi?",
+    "cevap": "Evet. TMK 183'e göre velayetin kullanılmasında ciddi ihmal, çocuğun kötü muameleye maruz bırakılması veya çocuğun menfaatinin ağır tehlike altına girmesi hâlinde hâkim velayeti kaldırabilir.",
+    "kaynak": "TMK Madde 183"
+  },
+  {
+    "id": 86,
+    "kategori": "velayet",
+    "soru": "Çocuğun tercihi velayeti etkiler mi?",
+    "cevap": "Evet. Ayırt etme gücüne sahip çocuğun görüşü hâkim tarafından alınır ve yaşı ilerledikçe bu görüşe verilen ağırlık artar; ancak hâkim çocuğun beyanıyla bağlı değildir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 87,
+    "kategori": "velayet",
+    "soru": "Büyükanne-büyükbaba çocukla görüşebilir mi?",
+    "cevap": "TMK 325'e göre olağanüstü hâllerde büyükanne ve büyükbaba dahil üçüncü kişiler de çocukla kişisel ilişki kurulmasını talep edebilir.",
+    "kaynak": "TMK Madde 325"
+  },
+  {
+    "id": 88,
+    "kategori": "velayet",
+    "soru": "Velayet babaya ne zaman verilir?",
+    "cevap": "Hâkim, annenin çocuğun bakımını ihmal ettiği, fiziksel veya psikolojik şiddet uyguladığı, bağımlılık sorunları bulunduğu ya da babanın üstün yeterliliği kanıtlandığı hâllerde velayeti babaya verebilir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 89,
+    "kategori": "velayet",
+    "soru": "Velayet davası ne kadar sürer?",
+    "cevap": "Velayet davası genellikle 6 ay ile 2 yıl arasında sonuçlanır; sosyal inceleme raporu ve uzman görüşleri süreyi etkiler.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 90,
+    "kategori": "velayet",
+    "soru": "Velayet için sosyal inceleme raporu ne demek?",
+    "cevap": "Mahkeme uzmanları (sosyal çalışmacı, psikolog) tarafların evini ziyaret eder, çocukla ve ebeveynlerle görüşerek çocuğun hangi ebeveynle daha sağlıklı gelişeceğini raporlar.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 91,
+    "kategori": "velayet",
+    "soru": "Çocuğu yurt dışına götürebilir miyim velayetim varsa?",
+    "cevap": "Velayetiniz varsa ve diğer ebeveynin yazılı izni ya da mahkeme kararı mevcutsa çocuğu yurt dışına götürebilirsiniz. İzinsiz götürmek uluslararası çocuk kaçırma olarak değerlendirilebilir.",
+    "kaynak": "TMK Madde 182, La Haye Sözleşmesi"
+  },
+  {
+    "id": 92,
+    "kategori": "velayet",
+    "soru": "Çocuk anneyle mi babaya mı kalmalı karar nasıl verilir?",
+    "cevap": "Hâkim şu kriterleri değerlendirir: çocuğun yaşı ve cinsiyeti, her ebeveynle duygusal bağı, kardeşlerin durumu, ebeveynlerin sağlık ve ahlaki durumu, çocuğun okul ve sosyal çevresi, ekonomik koşullar.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 93,
+    "kategori": "velayet",
+    "soru": "Velayeti olan ebeveyn çocuğu başka şehre taşıyabilir mi?",
+    "cevap": "Taşınma diğer ebeveynin kişisel ilişki hakkını önemli ölçüde kısıtlıyorsa mahkeme onayı gerekebilir; aksi hâlde velayetin değiştirilmesi talep edilebilir.",
+    "kaynak": "TMK Madde 182, 183"
+  },
+  {
+    "id": 94,
+    "kategori": "velayet",
+    "soru": "Velayet kişisel ilişkiyi engelleyebilir mi?",
+    "cevap": "Hayır. Velayeti olan ebeveyn, TMK 324 kapsamında haklı bir sebep olmaksızın diğer ebeveynin kişisel ilişki kurma hakkını engelleyemez; bu davranış velayetin değiştirilmesi için gerekçe oluşturur.",
+    "kaynak": "TMK Madde 324"
+  },
+  {
+    "id": 95,
+    "kategori": "velayet",
+    "soru": "Kişisel ilişki hakkı kısıtlanabilir mi?",
+    "cevap": "TMK 324'e göre kişisel ilişki kurulmasının çocuğun gelişimini tehlikeye atması hâlinde hâkim kısıtlama veya kaldırma kararı verebilir.",
+    "kaynak": "TMK Madde 324"
+  },
+  {
+    "id": 96,
+    "kategori": "velayet",
+    "soru": "Velayet anlaşmalı boşanmada nasıl belirlenir?",
+    "cevap": "Taraflar protokolde velayetin kime ait olacağını, kişisel ilişki takvimini ve iştirak nafakasını serbestçe kararlaştırır; hâkim çocuğun yararına aykırı bulmadıkça onaylar.",
+    "kaynak": "TMK Madde 166/3"
+  },
+  {
+    "id": 97,
+    "kategori": "velayet",
+    "soru": "Çocuğun soyadı velayete göre değişir mi?",
+    "cevap": "Velayet annedeyse çocuk kural olarak babanın soyadını taşımaya devam eder; yalnızca mahkeme kararıyla soyadı değiştirilebilir.",
+    "kaynak": "TMK Madde 321"
+  },
+  {
+    "id": 98,
+    "kategori": "velayet",
+    "soru": "Velayet davası için gerekli belgeler neler?",
+    "cevap": "Nüfus cüzdanı, evlilik cüzdanı, çocuğun doğum belgesi, gelir belgeleri, ikametgâh belgesi, varsa psikolojik rapor ve sosyal inceleme raporuna dayanabilecek kanıtlar.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 99,
+    "kategori": "velayet",
+    "soru": "Kardeşler boşanmada birbirinden ayrılır mı?",
+    "cevap": "Hâkim kural olarak kardeşleri birlikte tutmayı tercih eder; ancak çocukların yararına uygunsa ayrı velayete de hükmedebilir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 100,
+    "kategori": "velayet",
+    "soru": "Velayet anneden alınabilir mi?",
+    "cevap": "Evet. Annenin çocuğu ihmal etmesi, şiddet uygulaması, bağımlılık sorunu bulunması veya çocuğun gelişimini tehlikeye atacak davranışları olması hâlinde velayet anneden alınabilir.",
+    "kaynak": "TMK Madde 183"
+  },
+  {
+    "id": 101,
+    "kategori": "velayet",
+    "soru": "Velayet değişikliğinde mevcut velayetin önemi nedir?",
+    "cevap": "Mevcut velayetin değiştirilmesi için yalnızca koşulların değişmesi yetmez; değişikliğin çocuğun yararına açıkça üstün olduğu ispat edilmelidir.",
+    "kaynak": "TMK Madde 183"
+  },
+  {
+    "id": 102,
+    "kategori": "velayet",
+    "soru": "Anne çalışıyorsa velayet babaya mı geçer?",
+    "cevap": "Hayır. Annenin çalışması tek başına velayet değişikliği gerekçesi değildir; çocuğun bakımı için düzgün bir çevre sağlandıktan sonra annenin velayet hakkı devam eder.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 103,
+    "kategori": "velayet",
+    "soru": "Velayet geçici tedbir olarak alınabilir mi?",
+    "cevap": "Evet. Dava süresince hâkim, çocuğun yararını korumak amacıyla geçici velayet tedbirine hükmedebilir.",
+    "kaynak": "TMK Madde 169"
+  },
+  {
+    "id": 104,
+    "kategori": "velayet",
+    "soru": "Çocuk belirli aralıklarla babamda kalabilir mi?",
+    "cevap": "Evet. Kişisel ilişki düzenlemesi hafta sonları, tatil dönemleri ve bayramları kapsayacak şekilde belirlenerek çocuğun belirli süreler boyunca velayeti olmayan ebeveynle kalması sağlanır.",
+    "kaynak": "TMK Madde 323"
+  },
+  {
+    "id": 105,
+    "kategori": "velayet",
+    "soru": "Velayetten feragat edilebilir mi?",
+    "cevap": "Hayır. Velayet bir hak ve görev olduğundan tek taraflı feragatle sona erdirilemez; ancak koşulların değişmesiyle mahkeme velayeti başkasına devredebilir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 106,
+    "kategori": "velayet",
+    "soru": "Velayet suç işlenmesi hâlinde değişir mi?",
+    "cevap": "Velayeti olan ebeveynin çocuğa karşı suç işlemesi veya onu tehlikeye atması hâlinde mahkeme velayeti derhal değiştirebilir ya da kaldırabilir.",
+    "kaynak": "TMK Madde 183"
+  },
+  {
+    "id": 107,
+    "kategori": "velayet",
+    "soru": "Velayeti almak için ne yapmalıyım?",
+    "cevap": "Aile mahkemesinde velayet davası açmalı ve çocuğun yararına daha uygun koşullar sunduğunuzu delillerle ispat etmelisiniz: ekonomik durum, yaşam koşulları, çocukla duygusal bağ.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 108,
+    "kategori": "velayet",
+    "soru": "Ebeveynin psikolojik sorunu velayeti etkiler mi?",
+    "cevap": "Evet. Ağır psikolojik hastalık veya tedavi görülmeyen ruhsal bozukluklar, çocuğun sağlıklı gelişimini tehdit ediyorsa velayet kararını olumsuz etkileyebilir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 109,
+    "kategori": "velayet",
+    "soru": "Velayet kararını hangi mahkeme verir?",
+    "cevap": "Aile mahkemesi velayet kararını verir. Aile mahkemesi bulunmayan yerlerde asliye hukuk mahkemesi bu görevi üstlenir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 110,
+    "kategori": "velayet",
+    "soru": "Çocuğun dini eğitimi velayetle birlikte belirlenir mi?",
+    "cevap": "Velayeti olan ebeveyn çocuğun dini eğitimini yönetir; ancak bu konuda ebeveynler arasında ciddi anlaşmazlık varsa hâkim çocuğun yararına karar verir.",
+    "kaynak": "TMK Madde 322"
+  },
+  {
+    "id": 111,
+    "kategori": "velayet",
+    "soru": "İki çocuğum var, ikisi de aynı ebeveyne mi bağlanır?",
+    "cevap": "Genellikle evet; kardeşlerin birlikte kalması çocuğun yararına kabul edilir. Ancak somut koşullar farklı bir düzeni gerektirirse hâkim ayrı karar verebilir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 112,
+    "kategori": "velayet",
+    "soru": "Velayet yurt dışında oturan ebeveyne verilebilir mi?",
+    "cevap": "Hâkim, yurt dışında oturmak nedeniyle çocukla kişisel ilişkinin zorlaşacağını göz önünde bulundurarak velayeti genellikle Türkiye'deki ebeveyne verir; ancak somut koşullar belirleyicidir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 113,
+    "kategori": "velayet",
+    "soru": "Velayet için pedagojik değerlendirme şart mı?",
+    "cevap": "Zorunlu değil, ancak taraflardan birinin talebi veya hâkimin gerekli görmesi hâlinde mahkeme uzmanı pedagojik değerlendirme istenebilir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 114,
+    "kategori": "velayet",
+    "soru": "Velayeti olmayan ebeveyn çocuğun pasaportunu çıkarabilir mi?",
+    "cevap": "Hayır. Çocuğun pasaportunu velayeti olan ebeveyn çıkarır; velayeti olmayan ebeveynin rızası gerekebilir veya mahkeme kararı aranabilir.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 115,
+    "kategori": "velayet",
+    "soru": "Kişisel ilişki takvimi nasıl uygulanır?",
+    "cevap": "Kararla belirlenen günlerde velayeti olmayan ebeveyn çocuğu alır ve süre sonunda teslim eder. Teslim edilmeme hâlinde aile mahkemesine başvurulabilir.",
+    "kaynak": "TMK Madde 323"
+  },
+  {
+    "id": 116,
+    "kategori": "velayet",
+    "soru": "Ebeveynlerin anlaşamaması durumunda velayet nasıl belirlenir?",
+    "cevap": "Taraflar anlaşamazsa hâkim sosyal inceleme raporu, pedagojik değerlendirme ve duruşma beyanlarını değerlendirerek çocuğun yararına en uygun velayeti belirler.",
+    "kaynak": "TMK Madde 182"
+  },
+  {
+    "id": 117,
+    "kategori": "velayet",
+    "soru": "Velayet ihlali cezası var mı?",
+    "cevap": "Velayete ilişkin mahkeme kararına uymayan ebeveyn hakkında icra yoluyla zorlama uygulanabilir; çocuğu teslim etmemek suç oluşturabilir (TCK 234).",
+    "kaynak": "TCK Madde 234"
+  },
+  {
+    "id": 118,
+    "kategori": "velayet",
+    "soru": "Velayetin değiştirilmesini kim talep edebilir?",
+    "cevap": "Ebeveynlerden her biri veya cumhuriyet savcısı çocuğun yararı gerektirdiğinde velayetin değiştirilmesini talep edebilir.",
+    "kaynak": "TMK Madde 183"
+  },
+  {
+    "id": 119,
+    "kategori": "mal_paylaşımı",
+    "soru": "Boşanmada mal paylaşımı nasıl yapılır?",
+    "cevap": "Türk hukukunda yasal mal rejimi edinilmiş mallara katılma rejimidir (TMK 218-241). Boşanmada eşler evlilik süresince edindikleri mallarda yarı yarıya katılma alacağına sahiptir; kişisel mallar bu paylaşıma dahil değildir.",
+    "kaynak": "TMK Madde 218-241"
+  },
+  {
+    "id": 120,
+    "kategori": "mal_paylaşımı",
+    "soru": "Edinilmiş mal nedir?",
+    "cevap": "TMK 219'a göre edinilmiş mal, eşin çalışmasının karşılığı olan kazanımlar, sosyal güvenlik ödemeleri, çalışma gücünün yitirilmesi nedeniyle ödenen tazminatlar, kişisel malların gelirleri ve edinilmiş malların yerine geçen değerlerdir.",
+    "kaynak": "TMK Madde 219"
+  },
+  {
+    "id": 121,
+    "kategori": "mal_paylaşımı",
+    "soru": "Kişisel mal nedir, paylaşıma girer mi?",
+    "cevap": "TMK 220'ye göre kişisel mallar: evlilik öncesi edinilen mallar, miras veya bağış yoluyla kazanılan mallar, manevi tazminat alacakları ve kişisel kullanıma özgü eşyalardır. Bu mallar paylaşıma dahil değildir.",
+    "kaynak": "TMK Madde 220"
+  },
+  {
+    "id": 122,
+    "kategori": "mal_paylaşımı",
+    "soru": "Evden önce aldığım ev paylaşıma girer mi?",
+    "cevap": "Evlilikten önce edinilen mal kişisel mal sayılır (TMK 220) ve paylaşıma dahil edilmez. Ancak evlilik süresince değer artışı söz konusuysa değer artışı payı tartışılabilir.",
+    "kaynak": "TMK Madde 220"
+  },
+  {
+    "id": 123,
+    "kategori": "mal_paylaşımı",
+    "soru": "Miras yoluyla aldığım mülk paylaşıma girer mi?",
+    "cevap": "Hayır. Miras yoluyla edinilen mallar kişisel mal sayıldığından edinilmiş mallara katılma paylaşımının dışında tutulur.",
+    "kaynak": "TMK Madde 220"
+  },
+  {
+    "id": 124,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal paylaşımı davası nerede açılır?",
+    "cevap": "Mal paylaşımı davası, aile mahkemesinde açılır. Boşanma davasıyla birleştirilerek aynı mahkemede görülebilir.",
+    "kaynak": "TMK Madde 214"
+  },
+  {
+    "id": 125,
+    "kategori": "mal_paylaşımı",
+    "soru": "Katkı payı alacağı nedir?",
+    "cevap": "Bir eşin, diğerinin kişisel mallarının edinilmesine, iyileştirilmesine veya korunmasına yaptığı katkı nedeniyle talep edebileceği alacaktır. Ispat yükü katkıyı iddia eden taraftadır.",
+    "kaynak": "TMK Madde 227"
+  },
+  {
+    "id": 126,
+    "kategori": "mal_paylaşımı",
+    "soru": "Evlilik süresince açtığım işletme paylaşıma girer mi?",
+    "cevap": "Evlilik sırasında kurulan ve faaliyet gösteren işletme edinilmiş mal olarak değerlendirilir; tasfiyesi sırasında denkleştirme yapılır.",
+    "kaynak": "TMK Madde 219"
+  },
+  {
+    "id": 127,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal rejimi sözleşmesi yapılabilir mi?",
+    "cevap": "Evet. Eşler evlilik öncesinde veya evlilik sırasında noter aracılığıyla mal ayrılığı, paylaşmalı mal ayrılığı veya mal ortaklığı rejimini seçen bir sözleşme yapabilir.",
+    "kaynak": "TMK Madde 203"
+  },
+  {
+    "id": 128,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal ayrılığı rejiminde boşanmada ne olur?",
+    "cevap": "Mal ayrılığı rejiminde her eş kendi malı üzerinde tam tasarruf hakkına sahiptir; boşanmada diğerinin malına katılım hakkı doğmaz.",
+    "kaynak": "TMK Madde 242"
+  },
+  {
+    "id": 129,
+    "kategori": "mal_paylaşımı",
+    "soru": "Eşimin aldığı kredileri ödemek zorunda mıyım?",
+    "cevap": "Evlilik sırasında alınan borçlar için sorumluluk borcun niteliğine bağlıdır. Aile ihtiyaçları için alınan borçlarda her iki eş müteselsilen sorumlu olabilir.",
+    "kaynak": "TMK Madde 188"
+  },
+  {
+    "id": 130,
+    "kategori": "mal_paylaşımı",
+    "soru": "Eşim mal kaçırıyorsa ne yapabilirim?",
+    "cevap": "İhtiyati tedbir kararı alarak eşinizin malvarlığı üzerine tedbir konulmasını sağlayabilirsiniz. Ayrıca dürüstlük kuralına aykırı mal devirlerine karşı iptal davası açılabilir.",
+    "kaynak": "HMK Madde 389"
+  },
+  {
+    "id": 131,
+    "kategori": "mal_paylaşımı",
+    "soru": "Değer artışı payı ne demek?",
+    "cevap": "TMK 227'ye göre bir eş, diğerinin kişisel mallarının değerinin artmasına katkıda bulunmuşsa malın tasfiye anındaki değer artışından pay talep edebilir.",
+    "kaynak": "TMK Madde 227"
+  },
+  {
+    "id": 132,
+    "kategori": "mal_paylaşımı",
+    "soru": "Eşimin maaşından pay alabilir miyim?",
+    "cevap": "Maaş edinilmiş mal kapsamında olduğundan, evlilik süresince biriktirilen maaş gelirleri üzerinden katılma alacağı hesaplanabilir.",
+    "kaynak": "TMK Madde 219"
+  },
+  {
+    "id": 133,
+    "kategori": "mal_paylaşımı",
+    "soru": "Tapu sadece eşimin üzerinde, hakkım var mı?",
+    "cevap": "Evet. Tapu eşiniz üzerinde olsa dahi evlilik süresince edinilmişse katılma alacağınız doğar; değerin yarısını talep edebilirsiniz.",
+    "kaynak": "TMK Madde 231"
+  },
+  {
+    "id": 134,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal paylaşımı ne zaman dava açılır?",
+    "cevap": "Mal paylaşımı davası boşanma kararının kesinleşmesinden itibaren 10 yıllık zamanaşımı süresi içinde açılabilir.",
+    "kaynak": "TMK Madde 178"
+  },
+  {
+    "id": 135,
+    "kategori": "mal_paylaşımı",
+    "soru": "Evlilik öncesi borç paylaşıma girer mi?",
+    "cevap": "Hayır. Evlilik öncesi edinilen borçlar paylaşıma dahil değildir; her eş kendi evlilik öncesi borcundan sorumludur.",
+    "kaynak": "TMK Madde 220"
+  },
+  {
+    "id": 136,
+    "kategori": "mal_paylaşımı",
+    "soru": "Anlaşmalı boşanmada mal paylaşımı nasıl yapılır?",
+    "cevap": "Taraflar protokolde tüm malların kime ait olacağını yazılı olarak belirler. Hâkimin onayından geçen protokol geçerli olur.",
+    "kaynak": "TMK Madde 166/3"
+  },
+  {
+    "id": 137,
+    "kategori": "mal_paylaşımı",
+    "soru": "Emeklilik birikimleri paylaşıma girer mi?",
+    "cevap": "Evet. Evlilik süresince yapılan BES katkıları ve emekli ikramiyesinin evlilikle orantılı kısmı edinilmiş mal sayılarak paylaşıma dahil edilebilir.",
+    "kaynak": "TMK Madde 219"
+  },
+  {
+    "id": 138,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal paylaşımında gayrimenkul nasıl devredilir?",
+    "cevap": "Mahkeme kararına dayalı olarak tapu müdürlüğünde tescil işlemi yapılır; tescil için ayrıca noter sözleşmesine gerek yoktur.",
+    "kaynak": "TMK Madde 231"
+  },
+  {
+    "id": 139,
+    "kategori": "mal_paylaşımı",
+    "soru": "Hisse senetleri paylaşıma girer mi?",
+    "cevap": "Evlilik sırasında edinilen hisse senetleri edinilmiş mal sayılır; evlilik öncesinde alınanlar ise kişisel mal olarak değerlendirilir.",
+    "kaynak": "TMK Madde 219, 220"
+  },
+  {
+    "id": 140,
+    "kategori": "mal_paylaşımı",
+    "soru": "Eşim işletmesinin değerini gizliyorsa ne yapabilirim?",
+    "cevap": "Mahkemeden bilirkişi atanmasını talep edebilir, ticaret sicili kayıtları ve banka hesap dökümleri gibi belgeleri delil olarak sunabilirsiniz.",
+    "kaynak": "HMK Madde 266"
+  },
+  {
+    "id": 141,
+    "kategori": "mal_paylaşımı",
+    "soru": "Konut kredisi devam ederken mal paylaşımı nasıl olur?",
+    "cevap": "Konutun tasfiye anındaki değerinden kalan kredi bakiyesi düşülerek net değer hesaplanır; bu net değer üzerinden katılma alacağı belirlenir.",
+    "kaynak": "TMK Madde 231"
+  },
+  {
+    "id": 142,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal paylaşımı davası boşanma davasından ayrı mı açılır?",
+    "cevap": "Boşanma davasıyla aynı anda veya kesinleşmesinden sonra ayrıca açılabilir. Birlikte görülmesi zaman ve masraf tasarrufu sağlar.",
+    "kaynak": "TMK Madde 214"
+  },
+  {
+    "id": 143,
+    "kategori": "mal_paylaşımı",
+    "soru": "Düğünde takılan altınlar kime ait?",
+    "cevap": "Genel uygulama, düğünde gelinin üzerine takılan ziynetlerin kadına ait olduğu yönündedir; ancak kimin taktığı ve evlilikte nasıl kullanıldığı da değerlendirilir.",
+    "kaynak": "Yargıtay İçtihadı"
+  },
+  {
+    "id": 144,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal paylaşımında vergi ödenir mi?",
+    "cevap": "Boşanmada yapılan mal devirleri belirli koşullar altında harç ve vergi istisnasından yararlanabilir; ayrıntılar için vergi danışmanına başvurulması önerilir.",
+    "kaynak": "GVK, BSMV"
+  },
+  {
+    "id": 145,
+    "kategori": "mal_paylaşımı",
+    "soru": "Eşim mallara zarar verirse tazminat isteyebilir miyim?",
+    "cevap": "Evet. Eşin kasıtlı olarak aile malvarlığını zarara uğratması hâlinde denkleştirme (TMK 230) veya tazminat talep edilebilir.",
+    "kaynak": "TMK Madde 230"
+  },
+  {
+    "id": 146,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal paylaşımı davasında bilirkişi şart mı?",
+    "cevap": "Malın değerinin belirlenmesinde taraflar anlaşamazsa hâkim bilirkişi atar. Anlaşma sağlanırsa bilirkişiye gerek kalmayabilir.",
+    "kaynak": "HMK Madde 266"
+  },
+  {
+    "id": 147,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal paylaşımı kararına itiraz edebilir miyim?",
+    "cevap": "Evet. Aile mahkemesinin kararına Bölge Adliye Mahkemesi'nde istinaf ve ardından Yargıtay'da temyiz yoluna başvurulabilir.",
+    "kaynak": "HMK Madde 341"
+  },
+  {
+    "id": 148,
+    "kategori": "mal_paylaşımı",
+    "soru": "Kiralık evde oturuyoruz, paylaşılacak mal yok mu?",
+    "cevap": "Kiralık konutta tarafların kişisel eşyaları ve birikim hesapları paylaşım konusu olabilir. Depozito gibi alacaklar da değerlendirilebilir.",
+    "kaynak": "TMK Madde 219"
+  },
+  {
+    "id": 149,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal paylaşımında borçlar nasıl hesaplanır?",
+    "cevap": "Mal rejiminin tasfiyesinde edilmiş malların aktifinden pasifler (borçlar) düşülerek artık değer (net değer) hesaplanır; bu net değerin yarısı katılma alacağı olarak karşı tarafa ödenir.",
+    "kaynak": "TMK Madde 231"
+  },
+  {
+    "id": 150,
+    "kategori": "mal_paylaşımı",
+    "soru": "Antenatal sözleşme nedir?",
+    "cevap": "Evlilik öncesinde yapılan ve seçilen mal rejimini belirleyen noter sözleşmesidir; Türkiye'de mal ayrılığı veya diğer mal rejimleri bu yolla seçilebilir.",
+    "kaynak": "TMK Madde 203"
+  },
+  {
+    "id": 151,
+    "kategori": "mal_paylaşımı",
+    "soru": "Ev eşyaları boşanmada nasıl paylaşılır?",
+    "cevap": "Taraflar anlaşamazsa mahkeme, eşyaların kime ait olduğunu ve değerini belirleyerek paylaşım kararı verir; ortak eşyalar satışa çıkarılabilir.",
+    "kaynak": "TMK Madde 226"
+  },
+  {
+    "id": 152,
+    "kategori": "mal_paylaşımı",
+    "soru": "Mal paylaşımında tarafların anlaşması şart mı?",
+    "cevap": "Hayır. Anlaşma sağlanamazsa mahkeme mal paylaşımını karara bağlar. Ancak anlaşma sağlanması zaman ve masraftan tasarruf ettirir.",
+    "kaynak": "TMK Madde 214"
+  },
+  {
+    "id": 153,
+    "kategori": "mal_paylaşımı",
+    "soru": "Kredi kartı borçları mal paylaşımını etkiler mi?",
+    "cevap": "Kişisel kredi kartı borçları kural olarak o eşe aittir; ancak aile harcamaları için kullanıldıysa değerlendirme farklı olabilir.",
+    "kaynak": "TMK Madde 188"
+  },
+  {
+    "id": 154,
+    "kategori": "tazminat",
+    "soru": "Boşanmada maddi tazminat nedir?",
+    "cevap": "TMK 174/1'e göre boşanma nedeniyle mevcut veya beklenen menfaatleri zedelenen kusursuz ya da daha az kusurlu taraf, kusurlu taraftan maddi tazminat isteyebilir.",
+    "kaynak": "TMK Madde 174/1"
+  },
+  {
+    "id": 155,
+    "kategori": "tazminat",
+    "soru": "Boşanmada manevi tazminat nedir?",
+    "cevap": "TMK 174/2'ye göre boşanmaya sebep olan olaylar yüzünden kişilik hakkı saldırıya uğrayan taraf, kusurlu olan diğer taraftan manevi tazminat isteyebilir.",
+    "kaynak": "TMK Madde 174/2"
+  },
+  {
+    "id": 156,
+    "kategori": "tazminat",
+    "soru": "Tazminat alabilmek için ne gerekir?",
+    "cevap": "Tazminat alabilmek için: 1) Karşı tarafın kusurlu olması, 2) Davacının kusursuz veya daha az kusurlu olması, 3) Boşanma nedeniyle menfaat zararı (maddi) veya kişilik hakkı ihlali (manevi) yaşanmış olması gerekir.",
+    "kaynak": "TMK Madde 174"
+  },
+  {
+    "id": 157,
+    "kategori": "tazminat",
+    "soru": "Aldatılırsam tazminat alabilir miyim?",
+    "cevap": "Evet. Zina (TMK 161) boşanma sebebi olduğu gibi, aldatılan eş manevi ve maddi tazminat da talep edebilir; kişilik hakkının zedelendiğini ispat etmek gerekir.",
+    "kaynak": "TMK Madde 161, 174"
+  },
+  {
+    "id": 158,
+    "kategori": "tazminat",
+    "soru": "Tazminat ne zaman dava edilmeli?",
+    "cevap": "TMK 178'e göre boşanma kararının kesinleşmesinden itibaren 1 yıl içinde tazminat davası açılmalıdır; bu süre hak düşürücü süredir.",
+    "kaynak": "TMK Madde 178"
+  },
+  {
+    "id": 159,
+    "kategori": "tazminat",
+    "soru": "Tazminat ile nafaka aynı davada talep edilebilir mi?",
+    "cevap": "Evet. Boşanma dilekçesine velayet, nafaka ve tazminat talepleri birlikte eklenebilir; hepsi aynı aile mahkemesinde görülür.",
+    "kaynak": "TMK Madde 174"
+  },
+  {
+    "id": 160,
+    "kategori": "tazminat",
+    "soru": "Eşit kusur varsa tazminat alınabilir mi?",
+    "cevap": "Hayır. Her iki tarafın eşit kusurlu olduğu hâllerde tazminat talebi reddedilir; tazminat ancak az kusurlu ya da kusursuz tarafça talep edilebilir.",
+    "kaynak": "TMK Madde 174"
+  },
+  {
+    "id": 161,
+    "kategori": "tazminat",
+    "soru": "Manevi tazminat miktarı nasıl belirlenir?",
+    "cevap": "Hâkim, olayın niteliğini, tarafların sosyal ve ekonomik durumunu, acının büyüklüğünü ve hakkaniyeti göz önünde bulundurarak takdir hakkıyla belirlenir.",
+    "kaynak": "TMK Madde 174/2"
+  },
+  {
+    "id": 162,
+    "kategori": "tazminat",
+    "soru": "Maddi tazminat miktarı nasıl hesaplanır?",
+    "cevap": "Mevcut menfaatin kaybı (ev hanımının emek kaybı, iş fırsatı gibi) ve beklenen menfaatin yitirilmesi esas alınır; bilirkişi raporu sürece yardımcı olabilir.",
+    "kaynak": "TMK Madde 174/1"
+  },
+  {
+    "id": 163,
+    "kategori": "tazminat",
+    "soru": "Tazminat toptan ödenir mi?",
+    "cevap": "Evet. Maddi tazminat toptan ödenebilir; manevi tazminat ise genellikle tek seferlik ödenmektedir.",
+    "kaynak": "TMK Madde 174"
+  },
+  {
+    "id": 164,
+    "kategori": "tazminat",
+    "soru": "Tazminat kararı kesinleşmeden icra edilebilir mi?",
+    "cevap": "Hayır. Tazminat kararları boşanma kararının kesinleşmesine bağlıdır; kesinleşmeden önce icra takibi başlatılamaz.",
+    "kaynak": "TMK Madde 174"
+  },
+  {
+    "id": 165,
+    "kategori": "tazminat",
+    "soru": "Üçüncü kişiden (sevgiliden) tazminat alınabilir mi?",
+    "cevap": "Türk aile hukukunda üçüncü kişiye karşı doğrudan TMK 174 kapsamında tazminat davası açılamaz; ancak genel hükümler çerçevesinde haksız eylem davası açılabilir.",
+    "kaynak": "BK Madde 49"
+  },
+  {
+    "id": 166,
+    "kategori": "tazminat",
+    "soru": "Anlaşmalı boşanmada tazminattan vazgeçilebilir mi?",
+    "cevap": "Evet. Taraflar protokolde tazminat taleplerinden karşılıklı olarak feragat edebilir.",
+    "kaynak": "TMK Madde 166/3"
+  },
+  {
+    "id": 167,
+    "kategori": "tazminat",
+    "soru": "Sadakat yükümlülüğünü ihlal tazminat gerektirir mi?",
+    "cevap": "Evet. Zina ve benzeri sadakat ihlalleri manevi tazminat talebine konu olabilir.",
+    "kaynak": "TMK Madde 161, 174"
+  },
+  {
+    "id": 168,
+    "kategori": "tazminat",
+    "soru": "Tazminat için avukat şart mı?",
+    "cevap": "Hukuki zorunluluk yoktur; ancak tazminat miktarını etkileyen delil ve hesaplamalar için avukat desteği önerilir.",
+    "kaynak": "TMK Madde 174"
+  },
+  {
+    "id": 169,
+    "kategori": "tazminat",
+    "soru": "Tazminat ev veya araç olarak ödenebilir mi?",
+    "cevap": "Evet. Tarafların anlaşmasıyla ayni (mülk devri, araç) olarak ödeme yapılabilir; hâkim uygun bulursa onaylar.",
+    "kaynak": "TMK Madde 174"
+  },
+  {
+    "id": 170,
+    "kategori": "tazminat",
+    "soru": "Tazminat ödenince evlilik izi silinir mi?",
+    "cevap": "Tazminat ödenmesi hukuki anlamda evliliği sona erdiren unsur değildir; boşanma kararının kesinleşmesiyle evlilik biter.",
+    "kaynak": "TMK Madde 174"
+  },
+  {
+    "id": 171,
+    "kategori": "tazminat",
+    "soru": "Şiddet mağduru tazminat alabilir mi?",
+    "cevap": "Evet. Aile içi şiddet, TMK 174/2 kapsamında manevi tazminata dayanak oluşturur; şiddetin belgeleyen adli rapor ve tanık beyanları delil olarak sunulabilir.",
+    "kaynak": "TMK Madde 174/2"
+  },
+  {
+    "id": 172,
+    "kategori": "tazminat",
+    "soru": "Tazminat davasında ispat yükü kimde?",
+    "cevap": "Tazminat talep eden taraf, karşı tarafın kusurunu ve kendi zararını kanıtlamak zorundadır.",
+    "kaynak": "HMK Madde 190"
+  },
+  {
+    "id": 173,
+    "kategori": "tazminat",
+    "soru": "Tazminat icra edilmezse ne olur?",
+    "cevap": "İlamlı icra takibi başlatılabilir; borçlunun mal varlığına haciz, maaşına kesinti uygulanabilir.",
+    "kaynak": "İİK Madde 32"
+  },
+  {
+    "id": 174,
+    "kategori": "tazminat",
+    "soru": "Terk nedeniyle tazminat alınabilir mi?",
+    "cevap": "Evet. TMK 164 kapsamında haksız terk, boşanmayı sebebiyle menfaat kaybı yaşayan tarafın maddi ve manevi tazminat talep etmesine imkân tanır.",
+    "kaynak": "TMK Madde 164, 174"
+  },
+  {
+    "id": 175,
+    "kategori": "tazminat",
+    "soru": "Tazminat çocukların nafakasından ayrı mıdır?",
+    "cevap": "Evet. Tazminat eşler arasındaki zararı gidermeye yönelikken iştirak nafakası çocuğun gider paylaşımı içindir; birbirinden bağımsızdır.",
+    "kaynak": "TMK Madde 174, 182"
+  },
+  {
+    "id": 176,
+    "kategori": "tazminat",
+    "soru": "Boşanma sonrası tazminat zamanaşımı işler mi?",
+    "cevap": "Evet. TMK 178 uyarınca boşanma kararının kesinleşmesinden itibaren 1 yıl içinde tazminat davası açılmazsa hak düşer.",
+    "kaynak": "TMK Madde 178"
+  },
+  {
+    "id": 177,
+    "kategori": "tazminat",
+    "soru": "Çekişmeli boşanmada tazminat nasıl belirlenir?",
+    "cevap": "Hâkim, tarafların kusur durumunu, zarara ilişkin delilleri ve ekonomik koşullarını değerlendirerek takdir hakkıyla tazminat miktarını belirler.",
+    "kaynak": "TMK Madde 174"
+  },
+  {
+    "id": 178,
+    "kategori": "tazminat",
+    "soru": "Ekonomik şiddet tazminat gerektirir mi?",
+    "cevap": "Evet. Ekonomik şiddet kişilik hakkını ihlal ettiğinden TMK 174/2 kapsamında manevi tazminat talebi yapılabilir.",
+    "kaynak": "TMK Madde 174/2"
+  },
+  {
+    "id": 179,
+    "kategori": "tazminat",
+    "soru": "Tazminat kararına itiraz edilebilir mi?",
+    "cevap": "Evet. İstinaf ve ardından temyiz yoluna başvurulabilir.",
+    "kaynak": "HMK Madde 341"
+  },
+  {
+    "id": 180,
+    "kategori": "tazminat",
+    "soru": "Tazminat nafakadan mahsup edilir mi?",
+    "cevap": "Hayır. Maddi tazminat ve nafaka bağımsız alacaklardır; birinde yapılan ödeme diğerini etkilemez.",
+    "kaynak": "TMK Madde 174, 175"
+  },
+  {
+    "id": 181,
+    "kategori": "tazminat",
+    "soru": "Psikolojik şiddet manevi tazminat gerektirir mi?",
+    "cevap": "Evet. Belgelenmiş psikolojik şiddet, kişilik hakkı ihlali kapsamında manevi tazminata dayanak oluşturabilir.",
+    "kaynak": "TMK Madde 174/2"
+  },
+  {
+    "id": 182,
+    "kategori": "tazminat",
+    "soru": "Tazminat davası ayrı mı açılır?",
+    "cevap": "Boşanma davasıyla birlikte talep edilebilir ya da kesinleşmeden sonra 1 yıl içinde ayrı dava açılabilir.",
+    "kaynak": "TMK Madde 178"
+  },
+  {
+    "id": 183,
+    "kategori": "tazminat",
+    "soru": "Tazminat için mahkemeye hangi belgeler sunulur?",
+    "cevap": "Tanık beyanları, mesajlar, fotoğraf/video, adli tıp raporları, psikolojik değerlendirme raporu ve ekonomik zarar hesabı gösteren belgeler.",
+    "kaynak": "HMK Madde 190"
+  },
+  {
+    "id": 184,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "6284 sayılı kanun ne sağlar?",
+    "cevap": "6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun; şiddet mağdurunu koruyucu, şiddeti uygulayanı uzaklaştırıcı tedbirler öngörür. Uzaklaştırma, iletişim yasağı, nafaka ve barınma gibi tedbirler bu kanun kapsamındadır.",
+    "kaynak": "6284 Sayılı Kanun"
+  },
+  {
+    "id": 185,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Tedbir kararı nasıl alınır?",
+    "cevap": "En yakın aile mahkemesi, sulh hukuk mahkemesi veya doğrudan kolluk kuvvetlerine başvurarak acil koruma kararı talep edilebilir. Tehlike durumunda polis 6284 kapsamında anında tedbir uygulayabilir.",
+    "kaynak": "6284 Sayılı Kanun Madde 5, 7"
+  },
+  {
+    "id": 186,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Uzaklaştırma kararı nedir?",
+    "cevap": "Şiddet uygulayan kişinin, mağdurun yaşadığı konut veya işyerinden belirli mesafe kadar uzaklaştırılmasını emreden mahkeme kararıdır.",
+    "kaynak": "6284 Sayılı Kanun Madde 5"
+  },
+  {
+    "id": 187,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Tedbir kararı ne kadar sürer?",
+    "cevap": "İlk tedbir kararı 6 aya kadar verilebilir; tehlikenin devam etmesi hâlinde mahkeme süreyi uzatabilir.",
+    "kaynak": "6284 Sayılı Kanun Madde 8"
+  },
+  {
+    "id": 188,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Acil koruma kararı nedir?",
+    "cevap": "Kişinin can güvenliği tehlike altındaysa polis veya jandarma 6284 kapsamında gecikmeksizin koruyucu tedbir uygulayabilir; bu durum hâkime derhal bildirilir.",
+    "kaynak": "6284 Sayılı Kanun Madde 7"
+  },
+  {
+    "id": 189,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet ihbarı nasıl yapılır?",
+    "cevap": "ALO 183 (Aile, Kadın, Çocuk ve Engelli Sosyal Hizmetler Danışma Hattı), 155 (Polis), 156 (Jandarma) veya en yakın karakol/savcılığa başvurulabilir.",
+    "kaynak": "6284 Sayılı Kanun"
+  },
+  {
+    "id": 190,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Tedbir kararına itiraz edilebilir mi?",
+    "cevap": "Evet. Tedbir kararı kendisine uygulanan kişi tarafından tebliğden itibaren 2 hafta içinde itiraz yoluna başvurulabilir.",
+    "kaynak": "6284 Sayılı Kanun Madde 9"
+  },
+  {
+    "id": 191,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet delili olmadan tedbir alınabilir mi?",
+    "cevap": "6284'e göre şüphe ve risk değerlendirmesi yeterli olabilir; mahkeme mağdurun beyanını esas alabilir. Ancak itiraz aşamasında delil önem kazanır.",
+    "kaynak": "6284 Sayılı Kanun Madde 5"
+  },
+  {
+    "id": 192,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Elektronik kelepçe ne zaman takılır?",
+    "cevap": "Uzaklaştırma kararını ihlal eden ya da tehlikenin yüksek olduğu değerlendirilen kişilere mahkeme kararıyla elektronik izleme (kelepçe) uygulanabilir.",
+    "kaynak": "6284 Sayılı Kanun Madde 12"
+  },
+  {
+    "id": 193,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "ŞÖNİM nedir?",
+    "cevap": "Şiddet Önleme ve İzleme Merkezi'dir; 6284 kapsamındaki tedbir kararlarının uygulanmasını izler, mağdura danışmanlık ve yönlendirme hizmeti sunar.",
+    "kaynak": "6284 Sayılı Kanun"
+  },
+  {
+    "id": 194,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet mağduru nereye sığınabilir?",
+    "cevap": "Devlete bağlı kadın konukevleri ve sığınma evleri (ALO 183 aracılığıyla yönlendirme), Aile ve Sosyal Hizmetler Bakanlığı'na bağlı tesisler mevcuttur.",
+    "kaynak": "6284 Sayılı Kanun Madde 14"
+  },
+  {
+    "id": 195,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "KADES uygulaması nedir?",
+    "cevap": "Kadın Acil Destek Uygulaması'dır; şiddet mağdurunun tek tuşla polis çağırmasını sağlayan mobil uygulama olup Türkiye Emniyet Genel Müdürlüğü tarafından sunulmaktadır.",
+    "kaynak": "6284 Sayılı Kanun"
+  },
+  {
+    "id": 196,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Tedbir kararını ihlal ederse ne olur?",
+    "cevap": "Tedbiri ihlal eden kişi hakkında zorlama hapsi (3-10 gün) uygulanır; ihlal tekrarlanırsa süre uzatılır.",
+    "kaynak": "6284 Sayılı Kanun Madde 13"
+  },
+  {
+    "id": 197,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Psikolojik şiddet 6284 kapsamında mı?",
+    "cevap": "Evet. 6284 kapsamındaki şiddet tanımı; fiziksel, cinsel, duygusal, psikolojik ve ekonomik şiddeti kapsar.",
+    "kaynak": "6284 Sayılı Kanun Madde 2"
+  },
+  {
+    "id": 198,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet nedeniyle boşanma davası açılabilir mi?",
+    "cevap": "Evet. TMK 162 kapsamında hayata kast ve pek kötü veya onur kırıcı davranış (şiddet) boşanma sebebidir. Şiddet ayrıca TMK 166 kapsamında da boşanmaya dayanak olabilir.",
+    "kaynak": "TMK Madde 162"
+  },
+  {
+    "id": 199,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Tedbir kararı velayet kararını etkiler mi?",
+    "cevap": "Evet. Şiddet uygulayan ebeveynin velayet talebi bu durum göz önünde bulundurularak değerlendirilir; tedbir kararı kişisel ilişki düzenlemesini de etkileyebilir.",
+    "kaynak": "TMK Madde 182, 6284"
+  },
+  {
+    "id": 200,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Nafaka tedbir kararıyla birlikte alınabilir mi?",
+    "cevap": "Evet. 6284 kapsamında mahkeme, aynı kararla nafaka ve barınma gibi ekonomik tedbirlere de hükmedebilir.",
+    "kaynak": "6284 Sayılı Kanun Madde 5"
+  },
+  {
+    "id": 201,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet suç duyurusu yapılmalı mı?",
+    "cevap": "Şiddet hem hukuki hem cezai yaptırım gerektirdiğinden savcılığa suç duyurusunda bulunulması önerilir. Adli tıp raporu almak delil açısından önemlidir.",
+    "kaynak": "TCK Madde 86, 96"
+  },
+  {
+    "id": 202,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Ekonomik şiddet nedir?",
+    "cevap": "Eşin ekonomik kaynaklara erişimini engellemek, çalışmasına izin vermemek, parasına el koymak gibi davranışlar ekonomik şiddet kapsamındadır.",
+    "kaynak": "6284 Sayılı Kanun Madde 2"
+  },
+  {
+    "id": 203,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet mağduru ücretsiz avukat alabilir mi?",
+    "cevap": "Evet. Adli yardım kapsamında baro aracılığıyla ücretsiz hukuki yardım talep edilebilir; ayrıca bazı barolar kadına yönelik şiddet davalarında ücretsiz danışmanlık sunmaktadır.",
+    "kaynak": "Hukuki Yardım Yönetmeliği"
+  },
+  {
+    "id": 204,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet belgelemek için ne yapmalıyım?",
+    "cevap": "Adli tıp muayenesi, fotoğraf, mesaj ve arama kayıtları, tanık beyanları ve tıbbi raporlar önemli delillerdir. İhbar tarihinden itibaren tüm belgeleri saklamanız önerilir.",
+    "kaynak": "6284 Sayılı Kanun"
+  },
+  {
+    "id": 205,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Tedbir kararı olmadan polise başvurabilir miyim?",
+    "cevap": "Evet. Acil tehlike durumunda 155 veya 156'yı arayabilir, karakola gidebilirsiniz; kolluk anında müdahale yetkisine sahiptir.",
+    "kaynak": "6284 Sayılı Kanun Madde 7"
+  },
+  {
+    "id": 206,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Mobbing boşanma sebebi olabilir mi?",
+    "cevap": "Eşin sürekli aşağılama, küçük düşürme ve psikolojik baskı uygulaması TMK 162 kapsamında onur kırıcı davranış sayılabilir ve boşanma gerekçesi oluşturabilir.",
+    "kaynak": "TMK Madde 162"
+  },
+  {
+    "id": 207,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet tazminata hak kazandırır mı?",
+    "cevap": "Evet. Şiddet olayları TMK 174/2 kapsamında manevi tazminat talebine konu olabilir.",
+    "kaynak": "TMK Madde 174/2"
+  },
+  {
+    "id": 208,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Tedbir kararı mahkemeden mi alınır?",
+    "cevap": "Acil durumlarda kolluk da 6284/7 uyarınca tedbir uygulayabilir; bu durum en geç 24 saat içinde hâkime bildirilerek onaylanır.",
+    "kaynak": "6284 Sayılı Kanun Madde 7"
+  },
+  {
+    "id": 209,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Çocuğa yönelik şiddet nasıl ihbar edilir?",
+    "cevap": "ALO 183, 155 veya doğrudan aile mahkemesine başvurulabilir; çocuk istismarı şüphesinde savcılığa suç duyurusunda bulunulması zorunludur.",
+    "kaynak": "6284 Sayılı Kanun, TCK"
+  },
+  {
+    "id": 210,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet ihlalinde hapis cezası var mı?",
+    "cevap": "Tedbir ihlalinde zorlama hapsi (3-10 gün) uygulanır; fiziksel şiddet suçu ise TCK 86 ve devamı kapsamında ayrıca yargılanır.",
+    "kaynak": "6284 Sayılı Kanun Madde 13, TCK"
+  },
+  {
+    "id": 211,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Barınma tedbiri nedir?",
+    "cevap": "Mağdurun aile konutunda kalmaya devam etmesine olanak tanıyan ya da mağdurun başka bir yerde barınmasını sağlayan tedbirdir.",
+    "kaynak": "6284 Sayılı Kanun Madde 5"
+  },
+  {
+    "id": 212,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet devam ederse ne yapmalıyım?",
+    "cevap": "Derhal 155/156'yı arayın, ŞÖNİM'e başvurun ve tedbir kararı ihlaline dair aile mahkemesine bildirimde bulunun.",
+    "kaynak": "6284 Sayılı Kanun"
+  },
+  {
+    "id": 213,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "İletişim yasağı tedbiri nedir?",
+    "cevap": "Mahkeme, şiddeti uygulayan kişinin mağdurla telefon, mesaj veya sosyal medya üzerinden iletişim kurmasını yasaklayan tedbir kararı verebilir.",
+    "kaynak": "6284 Sayılı Kanun Madde 5"
+  },
+  {
+    "id": 214,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet mağduruna devlet yardımı var mı?",
+    "cevap": "Evet. Barınma, psikolojik destek, hukuki yardım ve geçici ekonomik destek gibi hizmetler Aile ve Sosyal Hizmetler Bakanlığı aracılığıyla sağlanmaktadır.",
+    "kaynak": "6284 Sayılı Kanun Madde 14"
+  },
+  {
+    "id": 215,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet ihbarı anonim yapılabilir mi?",
+    "cevap": "Evet. ALO 183 ve 155/156 hatlarına anonim ihbarda bulunulabilir; ancak mağdurun bizzat başvurması tedbir kararı alınmasını kolaylaştırır.",
+    "kaynak": "6284 Sayılı Kanun"
+  },
+  {
+    "id": 216,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Ayrılmak şiddeti durdurur mu?",
+    "cevap": "Ayrılmak riski azaltabilir ancak ortadan kaldırmaz; boşanma sürecinde de şiddet devam edebilir. 6284 kapsamında koruyucu tedbirleri almaya devam etmeniz önerilir.",
+    "kaynak": "6284 Sayılı Kanun"
+  },
+  {
+    "id": 217,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Şiddet tarihinden yıllar sonra dava açılabilir mi?",
+    "cevap": "Ceza davası için zamanaşımı suçun niteliğine göre değişir; boşanma ve tazminat davalarında 6 aylık hak düşürücü süre (TMK 162) veya genel süreler uygulanır.",
+    "kaynak": "TMK Madde 162, 178"
+  },
+  {
+    "id": 218,
+    "kategori": "şiddet_ve_tedbir",
+    "soru": "Tedbir kararı varken boşanma davası açmak gerekir mi?",
+    "cevap": "6284 tedbir kararı, boşanma sürecinden bağımsızdır; birlikte yürütülebilir. Tedbir kararı almak boşanmayı zorunlu kılmaz.",
+    "kaynak": "6284 Sayılı Kanun"
+  },
+  {
+    "id": 219,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yurt dışında alınan boşanma kararı Türkiye'de geçerli mi?",
+    "cevap": "Yabancı mahkeme kararı, Türkiye'de ancak tanıma veya tenfiz kararıyla hukuki sonuç doğurur. Bu karar olmaksızın yurt dışında boşanmış bir kişi Türkiye'de hâlâ evli sayılır.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 220,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Tanıma davası nedir?",
+    "cevap": "Yabancı mahkemenin boşanma gibi kurucu kararlarının Türkiye'de sonuç doğurması amacıyla açılan davadır; tanıma davası sonucunda karar Türk hukuku açısından geçerli hâle gelir.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 221,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Tenfiz davası nedir?",
+    "cevap": "Yabancı mahkemenin nafaka, tazminat gibi eda kararlarının Türkiye'de icraya konulabilmesini sağlayan davadır.",
+    "kaynak": "MÖHUK Madde 54"
+  },
+  {
+    "id": 222,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Tanıma ve tenfiz arasındaki fark nedir?",
+    "cevap": "Tanıma; boşanma gibi statü etkisi doğuran kararlar içindir. Tenfiz ise nafaka, tazminat gibi eda kararlarının Türkiye'de icrasını sağlar. Boşanma kararı için tanıma yeterlidir.",
+    "kaynak": "MÖHUK Madde 54, 58"
+  },
+  {
+    "id": 223,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Tanıma davası nerede açılır?",
+    "cevap": "Davalının Türkiye'deki yerleşim yeri mahkemesinde; yoksa Ankara, İstanbul veya İzmir aile mahkemelerinden birinde açılabilir.",
+    "kaynak": "MÖHUK Madde 60"
+  },
+  {
+    "id": 224,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Tanıma davası için hangi belgeler gerekir?",
+    "cevap": "Yabancı mahkeme kararının aslı veya onaylı sureti, apostilli ve Türkçe noter onaylı çevirisi, kararın kesinleştiğini gösterir belge.",
+    "kaynak": "MÖHUK Madde 58, La Haye Apostil Sözleşmesi"
+  },
+  {
+    "id": 225,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Apostil nedir?",
+    "cevap": "La Haye Sözleşmesi'ne taraf ülkelerin resmi belgelerine eklenen, belgenin yabancı makam tarafından düzenlendiğini onaylayan uluslararası tasdik şerhidir.",
+    "kaynak": "La Haye Apostil Sözleşmesi 1961"
+  },
+  {
+    "id": 226,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Tanıma davası ne kadar sürer?",
+    "cevap": "Belgelerin eksiksiz olması durumunda genellikle 3-9 ay arasında sonuçlanır; itiraz ve eksik belge hâllerinde süre uzayabilir.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 227,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yurt dışında boşandım, nüfus kaydımı nasıl güncellerim?",
+    "cevap": "Türk mahkemesinden tanıma kararı alındıktan sonra kesinleşme şerhiyle birlikte yurt içindeki nüfus müdürlüğüne başvurularak kayıt güncellenir.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 228,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Türk vatandaşı yurt dışında boşanabilir mi?",
+    "cevap": "Evet. Türk vatandaşı yabancı bir ülkede ikamet ediyorsa o ülke mahkemesinde boşanma davası açabilir; karar kesinleşince Türkiye'de tanıma yoluna gidilir.",
+    "kaynak": "MÖHUK Madde 13"
+  },
+  {
+    "id": 229,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yabancı ülkede Türk konsolosluğu boşanma yapabilir mi?",
+    "cevap": "Konsolosluklar boşanma yetkisine sahip değildir; yalnızca boşanmaya ilişkin belgelerin onaylanmasına yardımcı olabilir.",
+    "kaynak": "Konsolosluk Hizmetleri"
+  },
+  {
+    "id": 230,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yurt dışı boşanmada Türk hukuku mu uygulanır?",
+    "cevap": "MÖHUK 13'e göre eşlerin müşterek milli hukuku uygulanır; bu yoksa müşterek mutad mesken hukuku, o da yoksa Türk hukuku uygulanır.",
+    "kaynak": "MÖHUK Madde 13"
+  },
+  {
+    "id": 231,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "İki Türk vatandaşı yurt dışında boşanırsa kararı tanınır mı?",
+    "cevap": "Evet; ancak yabancı mahkemenin kararı MÖHUK 58'deki tanıma şartlarını taşımalı ve kamu düzenine aykırı olmamalıdır.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 232,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "AB ülkesindeki boşanma kararı Türkiye'de tanınır mı?",
+    "cevap": "Evet. AB üyesi ülke mahkemelerinin kararları da tanıma davasıyla Türkiye'de geçerli kılınabilir.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 233,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yurt dışı nafaka kararı Türkiye'de icra edilebilir mi?",
+    "cevap": "Evet. Yabancı nafaka kararının tenfizi için Türk aile mahkemesinde tenfiz davası açılmalı; karar kesinleştikten sonra icraya konulabilir.",
+    "kaynak": "MÖHUK Madde 54"
+  },
+  {
+    "id": 234,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yurt dışı velayet kararı Türkiye'de geçerli mi?",
+    "cevap": "Yabancı mahkemenin velayet kararı Türkiye'de tanınmalı ve tanıma kararı sonrasında nüfus müdürlüğüne bildirilmelidir.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 235,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Çift vatandaşlıkta hangi ülke mahkemesi yetkili?",
+    "cevap": "MÖHUK 13 uyarınca her iki vatandaşlık ülkesinin mahkemesi yetkili olabilir; dava açılan ülkenin kurallarına bakılır.",
+    "kaynak": "MÖHUK Madde 13"
+  },
+  {
+    "id": 236,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Tenfiz şartları nelerdir?",
+    "cevap": "MÖHUK 54'e göre: yabancı mahkemenin yetkili olması, kararın kesinleşmiş olması, Türk kamu düzenine aykırı olmaması, savunma hakkının ihlal edilmemiş olması ve mütekabiliyet koşulunun sağlanmış olması.",
+    "kaynak": "MÖHUK Madde 54"
+  },
+  {
+    "id": 237,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yurt dışında anlaşmalı boşanma yapıldıysa tanınır mı?",
+    "cevap": "Evet; yurt dışında gerçekleşen anlaşmalı boşanma kararı da tanıma şartlarını taşıması hâlinde Türkiye'de geçerli kılınabilir.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 238,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Tanıma davası sırasında Türkiye'de evli sayılır mıyım?",
+    "cevap": "Evet. Tanıma kararı kesinleşene kadar kişi Türk nüfus kayıtlarında evli görünür; yeni bir evlilik kararın kesinleşmesinden sonra yapılabilir.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 239,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yurt dışı boşanmada mal paylaşımı nasıl yapılır?",
+    "cevap": "Yabancı mahkemenin mal paylaşımına ilişkin kararı ayrıca tenfiz edilmelidir; Türkiye'deki gayrimenkul için Türk hukuku uygulanır.",
+    "kaynak": "MÖHUK Madde 21"
+  },
+  {
+    "id": 240,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Türkiye'deki tapu yurt dışı boşanmayı etkiler mi?",
+    "cevap": "Türkiye'deki taşınmazlar için mal paylaşımı Türk hukukuna tabi olduğundan, yurt dışı kararının tenfizinin yanı sıra ayrıca tapu davası açılması gerekebilir.",
+    "kaynak": "MÖHUK Madde 21"
+  },
+  {
+    "id": 241,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yurt dışında boşanırken Türkiye'deki mallar ne olur?",
+    "cevap": "Türkiye'deki mallara ilişkin TMK hükümleri uygulanır; yurt dışı kararı bu malları otomatik olarak paylaştırmaz.",
+    "kaynak": "MÖHUK Madde 21"
+  },
+  {
+    "id": 242,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Tanıma kararı kesinleşmeden yurt dışı kararına dayanabilir miyim?",
+    "cevap": "Hayır. Türk makamları nezdinde yurt dışı kararının geçerli sayılması için tanıma kararının kesinleşmiş olması şarttır.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 243,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "La Haye Çocuk Kaçırma Sözleşmesi nedir?",
+    "cevap": "Uluslararası çocuk kaçırma davalarında çocuğun mutat meskenine iade edilmesini öngören sözleşmedir. Türkiye 1998'de taraf olmuştur.",
+    "kaynak": "La Haye Sözleşmesi 1980"
+  },
+  {
+    "id": 244,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yurt dışındaki eşe tebligat nasıl yapılır?",
+    "cevap": "Türkiye'nin taraf olduğu uluslararası tebligat anlaşmaları çerçevesinde ya da ilgili ülkenin elçiliği aracılığıyla tebligat yapılır.",
+    "kaynak": "Tebligat Kanunu Madde 25"
+  },
+  {
+    "id": 245,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yabancı uyruklu eşle boşanma nasıl yapılır?",
+    "cevap": "Türk mahkemesinde MÖHUK 13 kapsamında uygulanacak hukuk belirlenerek dava açılabilir; alternatif olarak yabancı ülkede dava açılıp Türkiye'de tanıma yapılabilir.",
+    "kaynak": "MÖHUK Madde 13"
+  },
+  {
+    "id": 246,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Tenfiz kararı kaç günde kesinleşir?",
+    "cevap": "Tarafların itiraz etmemesi durumunda tenfiz kararı tebliğden itibaren 2 hafta içinde kesinleşir.",
+    "kaynak": "HMK Madde 302"
+  },
+  {
+    "id": 247,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Yurt dışında boşanma masrafları nasıl karşılanır?",
+    "cevap": "Türkiye'deki adli yardım sistemi kapsamında maddi durumu uygun olmayan kişilere tanıma/tenfiz davası için ücretsiz avukat desteği sağlanabilir.",
+    "kaynak": "Hukuki Yardım Yönetmeliği"
+  },
+  {
+    "id": 248,
+    "kategori": "yurt_dışı_boşanma",
+    "soru": "Konsolosluk boşanma protokolünü onaylar mı?",
+    "cevap": "Anlaşmalı boşanma protokolü, doğrudan konsolosluk tarafından onaylanamaz; Türk aile mahkemesine sunulması gerekir.",
+    "kaynak": "MÖHUK Madde 58"
+  },
+  {
+    "id": 249,
+    "kategori": "boşanma_süreci",
+    "soru": "Boşanma kararı nüfusa nasıl işlenir?",
+    "cevap": "Mahkeme, kesinleşen boşanma kararını nüfus müdürlüğüne bildirir; kayıtlar resen güncellenir. Taraflar ayrıca nüfus müdürlüğüne başvurarak güncellemeyi takip edebilir.",
+    "kaynak": "Nüfus Hizmetleri Kanunu"
+  },
+  {
+    "id": 250,
+    "kategori": "nafaka",
+    "soru": "Nafaka miktarı enflasyona göre otomatik artar mı?",
+    "cevap": "Protokolde veya mahkeme kararında TÜFE ya da asgari ücret artışına endeksli hüküm yoksa nafaka otomatik artmaz; artış için ayrıca dava açılması gerekir.",
+    "kaynak": "TMK Madde 176/4"
+  }
+]
