@@ -1,75 +1,116 @@
-# Boşanma Davaları Hukuki Bilgi Chatbotu
+# ⚖️ Boşanma Davaları Hukuki Bilgi Chatbotu
 
-## Proje Hakkında
+> Türk Medeni Kanunu kapsamında NLP tabanlı hukuki bilgilendirme sistemi.  
+> Bu sistem yalnızca genel bilgi amaçlıdır, hukuki danışmanlık yerine geçmez.
 
-Bu proje, Türk Medeni Kanunu kapsamındaki boşanma davası metinlerinden derlenen 250 kayıtlık bir veri setiyle NLP tabanlı bir hukuki bilgi chatbotu geliştirmeyi amaçlamaktadır. TF-IDF, Word2Vec ve çok dilli Sentence Transformer olmak üç farklı metin temsil yöntemi uygulanmış ve karşılaştırılmıştır. Proje hem komut satırı hem de Streamlit web arayüzü üzerinden kullanılabilir.
+## 🎯 Proje Hakkında
 
-## Kullanılan Teknolojiler
+Bu proje, Türk boşanma hukuku alanında kullanıcıların sık sorduğu sorulara
+TMK'ya dayalı yanıtlar sunan bir chatbot sistemidir. Dört farklı NLP yöntemi
+karşılaştırmalı olarak uygulanmış ve değerlendirilmiştir:
 
-- Python 3.10
-- scikit-learn (TF-IDF)
-- Gensim (Word2Vec)
-- Sentence Transformers (paraphrase-multilingual-MiniLM-L12-v2)
-- Streamlit
-- NLTK
+- **TF-IDF + Cosine Similarity** — anahtar kelime tabanlı
+- **Word2Vec + Cosine Similarity** — anlam tabanlı
+- **Sentence Transformer** — çok dilli embedding (en iyi doğruluk)
+- **RAG + Groq LLaMA 3.3 70B** — doğal Türkçe üretim
 
-## Model Performansı
+## 📊 Model Performansı (50 test sorusu)
 
-| Model | Kategori Accuracy | Hız |
-|-------|------------------|-----|
-| TF-IDF | %60 | 1.59ms |
-| Word2Vec | %58 | 0.29ms |
-| Embedding | %76 | 178ms |
+| Model | Kategori Accuracy | Top-3 Accuracy | Ort. Süre |
+|-------|:-----------------:|:--------------:|:---------:|
+| TF-IDF | %60 | %10 | 1.59 ms |
+| Word2Vec | %58 | %10 | 0.29 ms |
+| **Embedding** | **%76** | **%16** | 178 ms |
+| RAG + Groq | nitel değerlendirme | — | ~1-2 sn |
 
-## Kurulum
+## 🗂️ Proje Yapısı
+
+```
+Proje_2_bosanma_davalari/
+├── data/
+│   ├── raw/                    # Ham veri (250 S&C çifti, 50 test sorusu)
+│   ├── processed/              # NLP ön işlenmiş veri
+│   ├── models/                 # Eğitilmiş model dosyaları (.joblib)
+│   └── results/                # Değerlendirme sonuçları (CSV, JSON)
+├── src/
+│   ├── preprocess.py           # Türkçe NLP pipeline (tokenize, stopword, stem)
+│   ├── tfidf_model.py          # Model 1: TF-IDF
+│   ├── w2v_model.py            # Model 2: Word2Vec (Gensim)
+│   ├── embedding_model.py      # Model 3: Sentence Transformer
+│   ├── rag_model.py            # Model 4: RAG + Groq LLM
+│   ├── evaluator.py            # Karşılaştırmalı değerlendirme
+│   └── chatbot.py              # CLI giriş noktası
+├── notebooks/
+│   └── exploration.ipynb       # Keşifsel veri analizi
+├── tests/
+│   └── test_models.py          # Birim testler
+├── app.py                      # Streamlit web arayüzü
+├── requirements.txt
+└── .env                        # API anahtarları (git'e eklenmez)
+```
+
+## ⚙️ Kurulum
 
 ```bash
+# 1. Repoyu klonla
 git clone <repo-url>
 cd Proje_2_bosanma_davalari
+
+# 2. Sanal ortam oluştur
 python -m venv .venv
-source .venv/bin/activate  # Mac/Linux
-.venv\Scripts\activate     # Windows
+source .venv/bin/activate   # Mac/Linux
+.venv\Scripts\activate      # Windows
+
+# 3. Bağımlılıkları yükle
 pip install -r requirements.txt
+
+# 4. API anahtarını ayarla (.env dosyası oluştur)
+echo "GROQ_API_KEY=your_key_here" > .env
 ```
 
-## Kullanım
+## 🚀 Kullanım
 
 ```bash
-# Streamlit arayüzü
-PYTHONPATH=. .venv/bin/python -m streamlit run app.py
+# Streamlit arayüzü (önerilen)
+PYTHONPATH=. python -m streamlit run app.py
 
 # Model karşılaştırma raporu
-PYTHONPATH=. .venv/bin/python src/evaluator.py
+PYTHONPATH=. python src/evaluator.py
+
+# CLI modu
+PYTHONPATH=. python src/chatbot.py --mode tfidf --interface cli
+PYTHONPATH=. python src/chatbot.py --mode compare --interface cli
+
+# Modelleri sıfırdan eğitmek için
+PYTHONPATH=. python src/preprocess.py
+PYTHONPATH=. python src/tfidf_model.py
+PYTHONPATH=. python src/w2v_model.py
+PYTHONPATH=. python src/embedding_model.py
 ```
 
-## Proje Yapısı
+## 🧠 Kullanılan Teknolojiler
 
-```
-Proje_2_bosanma/
-├── data/
-│   ├── raw/               # Ham veri ve test soruları
-│   ├── processed/         # İşlenmiş veri seti (250 kayıt)
-│   ├── models/            # Eğitilmiş model dosyaları (.joblib)
-│   └── results/           # Değerlendirme sonuçları
-├── src/
-│   ├── __init__.py
-│   ├── preprocess.py      # Türkçe metin ön işleme (NLTK)
-│   ├── tfidf_model.py     # TF-IDF + cosine similarity
-│   ├── w2v_model.py       # Word2Vec (Gensim) + cosine similarity
-│   ├── embedding_model.py # Sentence Transformer (çok dilli)
-│   ├── evaluator.py       # 3 model karşılaştırma ve raporlama
-│   └── chatbot.py         # CLI arayüzü
-├── notebooks/
-│   └── exploration.ipynb  # Keşifsel veri analizi
-├── tests/
-│   └── test_models.py     # Birim testler
-├── app.py                 # Streamlit web arayüzü
-├── requirements.txt
-└── README.md
-```
+| Teknoloji | Amaç |
+|-----------|------|
+| scikit-learn | TF-IDF vektörizasyon, cosine similarity |
+| Gensim | Word2Vec eğitimi |
+| sentence-transformers | Çok dilli embedding (paraphrase-multilingual-MiniLM-L12-v2) |
+| Groq API | LLaMA 3.3 70B ile RAG üretimi |
+| NLTK | Türkçe tokenizasyon, stopword |
+| Streamlit | Web arayüzü |
+| joblib | Model kaydetme/yükleme |
+| python-dotenv | API key yönetimi |
 
-## Uyarı
+## 📁 Veri Seti
 
-Bu sistem yalnızca genel bilgi amaçlıdır, hukuki danışmanlık yerine geçmez.
-# Proje_2_bosanma
-# Proje_2_bosanma
+- **250 soru-cevap çifti**, 7 kategori
+- Kategoriler: boşanma_süreci, nafaka, velayet, mal_paylaşımı,
+  tazminat, şiddet_ve_tedbir, yurt_dışı_boşanma
+- Kaynaklar: TMK Madde 161-186, 321-324, 6284 Sayılı Kanun
+- **50 test sorusu** — veri setindekilerden farklı ifadelerle
+
+## ⚠️ Yasal Uyarı
+
+Bu sistem yalnızca genel bilgilendirme amaçlıdır.  
+Hukuki danışmanlık yerine geçmez.  
+Hukuki konularda mutlaka bir avukattan destek alınız.
