@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Veri ve modeller
+data/models/*
+data/results/*
+data/processed/*
+!data/models/.gitkeep
+!data/results/.gitkeep
+!data/processed/.gitkeep
+
+# Ortam
+.env
+*.joblib
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# macOS
+.DS_Store
+
+# Geçici
+/tmp/
+generate_dataset.py

@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+pandas
+gensim
+nltk
+streamlit
+jupyter
+notebook
+sentence-transformers
+torch --index-url https://download.pytorch.org/whl/cpu
